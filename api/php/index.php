@@ -1,76 +1,14 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    
-    <title>Home</title>
-    <link rel="stylesheet" type="text/css" href="css/studynest.css">
 
+<?php
+    $title = "Home";
+    include($_SERVER["DOCUMENT_ROOT"] . "/api/php/head.php");
+?>
 
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <script src="https://kit.fontawesome.com/b32b8e4e05.js" crossorigin="anonymous"></script>
-</head>
-    <body class="homepage">
-
-
-
-<header id="header-out">
-      <nav class="navbar flexbox ">
-         <div class="header-left">
-        <div class="brand-title">
-          <a href="index.html"><img src="images/SNLogo.svg" alt="Logo that says StudyNest" id="header-logo"></a>
-        </div>
-        <a href="#" class="toggle-button" onclick="openNav()">
-          <span class="bar"></span>
-          <span class="bar"></span>
-          <span class="bar"></span>
-        </a>
-     <div class="navbar-links">
-          <ul>
-       <li><a href="hub.html" title="Study Hub">Study Hub</a></li> 
-            <li><a href="" title="Temp">How it Works</a></li>
-            <li><a href="" title="Temp">Resources</a></li>
-            <li><a href="" title="Temp">About Us</a></li>
-          </ul>
-        </div>
-           
-           <div id="mySidenav" class="sidenav">
-             <div class="topheader">
-              <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-              <a href="hub.html" title="Study Hub">Study Hub</a>
-              <a href="#">How it Works</a>
-              <a href="#">Resources</a>
-              <a href="#">About Us</a>
-             <button class="signin2"  onclick="toLogin()">Sign In</button>
-             <button class="signup2" onclick="">Sign Up</button>
-             
-           </div>
-</div>
-        </div>
-        
-        <div class="header-right">
-          
-                    <div class="dropdown">
-                        <button class="dropdown-button" id="lang"><img src="images/Globe_icon.svg" alt="Internet icon" id="dropdown-img">English</button>
-                        <div class="lang-options">
-                            <a href="" title="English" id="English" onclick="changeLang(this.id)">English</a>
-                            <a href="" title="Spanish" id="Spanish" onclick="changeLang(this.id)">Spanish</a>
-                            <a href="" title="French" id="French" onclick="changeLang(this.id)">French</a>
-                            <a href="" title="German" id="German" onclick="changeLang(this.id)">German</a>
-                            <a href="" title="Russian" id="Russian" onclick="changeLang(this.id)">Russian</a>
-                        </div>
-                    </div>
-                    <button class="signin" id="signin" onclick="toLogin()">Sign In</button>
-                      <button class="signup" onclick="">Sign Up</button>
-                </div>
- 
-      </nav>
-      </header>    
-    
-
+<body class="homepage">
+    <?php
+        include($_SERVER["DOCUMENT_ROOT"] . "/api/php/nav.php");
+    ?>
     <div class="flexboxbanner">
             <section class="intro-sect-left">
                 <h1 class="h1style">Connect, Collaborate, and  Unlock Academic Success Together</h1>
