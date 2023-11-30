@@ -1,3 +1,7 @@
+<?php
+ header('Content-Type: text/css');
+?>
+
 /*Kat code*/
 /*Minfied Css for Search results page*/
 .cardcontainer::after,.row:after,.row:before{content:"";clear:both;display:table}body{margin:0;font-family:'Nimbus Sans L',sans-serif}.searchcontainer,.searching, html{height:100%;width:100%;max-height:100%}.searching{display:flex}
