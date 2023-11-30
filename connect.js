@@ -1,9 +1,6 @@
 //https://www.cockroachlabs.com/blog/full-stack-node-app/
 
 window.onload = function () {
-  const express = require('express');
-  const app = express();
-  
   const Sequelize = require("sequelize-cockroachdb");
   
   const fs = require("fs");
