@@ -1,5 +1,5 @@
 <header id="header-out">
-        <nav class="flexbox">
+        <nav class="navbar flexbox ">
                 <?php
                         include($_SERVER['DOCUMENT_ROOT'] . "/api/php/nav-left.php");
                 ?>
