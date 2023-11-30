@@ -1,21 +1,7 @@
-//https://www.cockroachlabs.com/blog/full-stack-node-app/
+const { Pool, Client } = require("pg");
 
-  const Sequelize = require("sequelize-cockroachdb");
-  
-  const fs = require("fs");
-  
-  var sequelize = new Sequelize({
-    dialect: "postgres",
-    username: "geodaio",
-    password: env.PASSWORD,
-    host: "study-nest-12836.7tt.cockroachlabs.cloud",
-    port: 26257,
-    database: "defaultdb",
-    dialectOptions: {
-      ssl: {
-        ca: fs.readFileSync(env.CERT).toString();
-      },
-    },
-    logging: false,
-  });
+const connectionString = "postgresql://geodaio"+env.PASSWORD+"study-nest-12836.7tt.cockroachlabs.cloud:26257/defaultdb?sslmode=verify-full&sslrootcert="+env.CERT+"&options=--cluster%3Dstudy-nest";
+
+const pool = new Pool ({connectionString});
+
 
