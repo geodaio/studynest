@@ -1,0 +1,30 @@
+{
+  "functions": {
+    "api/**/*": {
+      "runtime": "vercel-php@0.6.0"
+    }
+  },
+  "routes": [
+    { "src": "(.*)/head.php(.*)", "dest": "api/php/head.php" },
+    { "src": "(.*)/nav-left.php(.*)", "dest": "api/php/nav-left.php" },
+    { "src": "(.*)/nav-out.php(.*)", "dest": "api/php/nav-out.php" },
+    { "src": "(.*)/nav-in.php(.*)", "dest": "api/php/nav-in.php" },
+    { "src": "(.*)/nav.php(.*)", "dest": "api/php/nav.php" },
+    { "src": "(.*)/login.php(.*)", "dest": "api/php/login.php" },
+    { "src": "(.*)/footer.php(.*)", "dest": "api/php/footer.php" },
+    { "src": "(.*)/scripts.php(.*)", "dest": "api/php/scripts.php" },
+
+    { "src": "(.*)/style.php", "dest": "api/css/style.php" },
+
+    { "src": "(.*)/favicon.js", "dest": "/api/javascript/favicon.js" },
+    { "src": "(.*)/home.js", "dest": "/api/javascript/home.js" },
+    { "src": "(.*)/logInOut.js", "dest": "/api/javascript/logInOut.js" },
+    { "src": "(.*)/profile.js", "dest": "/api/javascript/profile.js" },
+    { "src": "(.*)/studynest.js", "dest": "/api/javascript/studynest.js" },
+
+    { "src": "(.*)/Globe_icon.svg", "dest": "/api/images/Globe_icon.svg" },
+    { "src": "(.*)/SNLogo.svg", "dest": "/api/images/SNLogo.svg" },
+    
+    { "src": "/(.*)", "dest": "api/php/index.php" }
+  ]
+}
