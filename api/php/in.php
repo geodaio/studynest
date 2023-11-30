@@ -15,7 +15,7 @@
       }
     }
     else {
-      echo("<p>No account found for this email!</p>);
+      echo("<p>No account found for this email!</p>");
     }
   }
 ?>
