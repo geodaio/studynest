@@ -17,3 +17,6 @@
   <li>list</li>
   <li>list</li>
 </ul>
+
+<p>package.json and package-lock.json from repo below:</p>
+<a href="https://github.com/cockroachlabs/connect-to-serverless/tree/main/javascript/node-postgres">Source for package files</a>
