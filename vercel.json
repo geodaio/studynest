@@ -13,7 +13,17 @@
     { "src": "(.*)/login.php(.*)", "dest": "api/php/login.php" },
     { "src": "(.*)/footer.php(.*)", "dest": "api/php/footer.php" },
     { "src": "(.*)/scripts.php(.*)", "dest": "api/php/scripts.php" },
-
+    { "src": "(.*)/Searchpage.php(.*)", "dest": "api/php/Searchpage.php" },
+    { "src": "(.*)/about-us.php(.*)", "dest": "api/php/about-us.php" },
+    { "src": "(.*)/change-lang-nav.php(.*)", "dest": "api/php/change-lang-nav.php" },
+    { "src": "(.*)/communities.php(.*)", "dest": "api/php/communities.php" },
+    { "src": "(.*)/hub.php(.*)", "dest": "api/php/hub.php" },
+    { "src": "(.*)/in.php(.*)", "dest": "api/php/in.php" },
+    { "src": "(.*)/messages.php(.*)", "dest": "api/php/messages.php" },
+    { "src": "(.*)/profile.php(.*)", "dest": "api/php/profile.php" },
+    { "src": "(.*)/questionaire.php(.*)", "dest": "api/php/questionaire.php" },
+    { "src": "(.*)/settings.php(.*)", "dest": "api/php/settings.php" },
+    
     { "src": "(.*)/style.php", "dest": "api/css/style.php" },
 
     { "src": "(.*)/favicon.js", "dest": "/api/javascript/favicon.js" },
@@ -21,9 +31,6 @@
     { "src": "(.*)/logInOut.js", "dest": "/api/javascript/logInOut.js" },
     { "src": "(.*)/profile.js", "dest": "/api/javascript/profile.js" },
     { "src": "(.*)/studynest.js", "dest": "/api/javascript/studynest.js" },
-
-    { "src": "(.*)/Globe_icon.svg", "dest": "/api/images/Globe_icon.svg" },
-    { "src": "(.*)/SNLogo.svg", "dest": "/api/images/SNLogo.svg" },
     
     { "src": "/(.*)", "dest": "api/php/index.php" }
   ]
