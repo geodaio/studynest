@@ -1,6 +1,5 @@
 //https://www.cockroachlabs.com/blog/full-stack-node-app/
 
-window.onload = function () {
   const Sequelize = require("sequelize-cockroachdb");
   
   const fs = require("fs");
@@ -19,8 +18,4 @@ window.onload = function () {
     },
     logging: false,
   });
-  
-  app.listen(port, host, () =>{
-    console.log("Server started at ${host} port ${post}");
-  })
-};
+
