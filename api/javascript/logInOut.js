@@ -34,7 +34,7 @@ window.onload = function () {
  		var cleanerCookie = cleanCookie.split("=");
  		console.log(cleanerCookie);
  		if (cleanerCookie[c] === "true") {
- 	        	window.location.assign("https://geodaio.github.io/interactive-design-final/index-login");
+ 	        	window.location.assign("https://study-nest.vercel.app/");
  			console.log("loggedin2");
 			found = true;
  		}
