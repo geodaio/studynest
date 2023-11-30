@@ -15,12 +15,12 @@
                 <p class="headerbody">Discover Your Ideal Study Buddy on Our Platform! Join Now to Boost Your Productivity and Achieve Academic Excellence as You Forge Meaningful Connections in Your Educational Journey</p>
                 <button id="get-started">Get Started</button>
                 <div class="dottedcircle">
-                <img src="images/Ellipse.svg" alt="Rotating dotted circle">
+                <img src="api/images/Ellipse.svg" alt="Rotating dotted circle">
             </div>
             </section>
             <section class="intro-sect-right">
                 
-               <img src="images/indeximage.svg" class="bannerimage" alt="Window of students imagery">
+               <img src="api/images/indeximage.svg" class="bannerimage" alt="Window of students imagery">
                
             </section>
         </div>
@@ -30,24 +30,24 @@
                  <div class="row scrolling_text">
                         <div class="runningtext">
                         <span>Study Together</span>
-                        <img src="images/unicon.svg" alt="Graduation Cap">
+                        <img src="api/images/unicon.svg" alt="Graduation Cap">
                         <span>Study Together</span>
-                         <img src="images/unicon.svg" alt="Graduation Cap">
+                         <img src="api/images/unicon.svg" alt="Graduation Cap">
                         <span>Study Together</span>
-                         <img src="images/unicon.svg" alt="Graduation Cap">
+                         <img src="api/images/unicon.svg" alt="Graduation Cap">
                         <span>Study Together</span>
-                         <img src="images/unicon.svg" alt="Graduation Cap">
+                         <img src="api/images/unicon.svg" alt="Graduation Cap">
                         <span>Study Together</span>
                         </div>
                         <div class="runningtext">
                          <span>Study Together</span>
-                          <img src="images/unicon.svg" alt="Graduation Cap">
+                          <img src="api/images/unicon.svg" alt="Graduation Cap">
                         <span>Study Together</span>
-                         <img src="images/unicon.svg" alt="Graduation Cap">
+                         <img src="api/images/unicon.svg" alt="Graduation Cap">
                         <span>Study Together</span>
-                         <img src="images/unicon.svg" alt="Graduation Cap">
+                         <img src="api/images/unicon.svg" alt="Graduation Cap">
                         <span>Study Together</span>
-                         <img src="images/unicon.svg" alt="Graduation Cap">
+                         <img src="api/images/unicon.svg" alt="Graduation Cap">
                         <span>Study Together</span>
                         </div>
                     </div>
@@ -61,7 +61,7 @@
         
              <div class="detailflexbox Aboutus">
             <section class="detail-sect-left">
-                 <img src="images/indeximage2.svg" class="aboutmeimage" alt="Window of a girl smiling while she's on video chat">
+                 <img src="api/images/indeximage2.svg" class="aboutmeimage" alt="Window of a girl smiling while she's on video chat">
        
             </section>
             <section class="detail-sect-right">
@@ -77,17 +77,17 @@
         <h2 class="centeredtext">Why Study Nest?</h2>
         <div class="picwrapper">
           <div class="picturecards">
-            <img class="imgcard" src="images/service1.jpg" alt="image one">
+            <img class="imgcard" src="api/images/service1.jpg" alt="image one">
             <h5> Tailored Connections </h5>
             <p id="bodywidth">Our quiz ensures that you find the perfect study buddy based on your academic needs, interests, and schedule.</p>
           </div>
           <div class="picturecards">
-            <img class="imgcard" src="images/service2.jpg" alt="image2">
+            <img class="imgcard" src="api/images/service2.jpg" alt="image2">
             <h5> Flexibility and Convenience: </h5>
             <p id="bodywidth2">Whether you prefer in-person study sessions or virtual collaboration, our platform accommodates various preferences to make learning accessible and convenient..</p>
           </div>
           <div class="picturecards">
-            <img class="imgcard" src="images/service3.jpg" alt="image3">
+            <img class="imgcard" src="api/images/service3.jpg" alt="image3">
              <h5>Empowering Academic Growth: </h5>
             <p id="bodywidth3">By working together, you and your study buddy can tackle challenges, share insights, and accelerate your academic progress, creating a mutually beneficial partnership.</p>
           </div>
@@ -136,7 +136,7 @@
            <div class="newsflexbox news-section">
             <section class="News-sect-left">
             <div class="imageright">
-                <img class="newsimg" src="images/studygroup.jpg" alt="A group of students in a stugy group studying">
+                <img class="newsimg" src="api/images/studygroup.jpg" alt="A group of students in a stugy group studying">
             </div>
             </section>
             <section class="News-sect-right">
