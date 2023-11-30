@@ -1,4 +1,4 @@
-# KC-AP-Study-Nest-
+# Study Nest
 ## Intermediate Interactive Design (CINF 362, Section 8441)
 ### :]
 
