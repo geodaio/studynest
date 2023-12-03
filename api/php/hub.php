@@ -2,70 +2,17 @@
 <!-- Katherine Cajamarca -->
 <!-- INF 362 -->
 <!DOCTYPE html>
-<html class="hubpage" lang="en">
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Study Hub</title>
-	<link rel="stylesheet" href="css/studynest.css">
-	<link rel="preconnect" href="https://fonts.googleapis.com">
-	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&family=PT+Serif&display=swap" rel="stylesheet"> <!--Previous three links are links for Google Fonts-->
-</head>
+
+<?php
+    $title = "Home";
+    include($_SERVER["DOCUMENT_ROOT"] . "/api/php/head.php");
+?>
+
 <body class="studyhub">
     <!--Insert Nav bar here -->
-	<header id="header-out">
-      <nav class="navbar flexbox ">
-         <div class="header-left">
-        <div class="brand-title">
-           <a href="index.html"><img src="images/SNLogo.svg" alt="Logo Temp" id="header-logo"></a>
-        </div>
-        <a href="#" class="toggle-button" onclick="openNav()">
-          <span class="bar"></span>
-          <span class="bar"></span>
-          <span class="bar"></span>
-        </a>
-     <div class="navbar-links">
-          <ul>
-       <li><a href="hub.html" title="Study Hub">Study Hub</a></li> 
-            <li><a href="" title="Temp">How it Works</a></li>
-            <li><a href="" title="Temp">Resources</a></li>
-            <li><a href="" title="Temp">About Us</a></li>
-          </ul>
-        </div>
-           
-           <div id="mySidenav" class="sidenav">
-             <div class="topheader">
-              <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-              <a href="#">How it Works</a>
-              <a href="#">Resources</a>
-              <a href="#">About Us</a>
-             <button class="signin2"  onclick="toLogin()">Sign In</button>
-             <button class="signup2" onclick="">Sign Up</button>
-             
-           </div>
-</div>
-        </div>
-        
-        <div class="header-right">
-          
-                    <div class="dropdown">
-                        <button class="dropdown-button" id="lang"><img src="images/Globe_icon.svg" alt="ALTTEXT" id="dropdown-img">English</button>
-                        <div class="lang-options">
-                            <a href="" title="English" id="English" onclick="changeLang(this.id)">English</a>
-                            <a href="" title="Spanish" id="Spanish" onclick="changeLang(this.id)">Spanish</a>
-                            <a href="" title="French" id="French" onclick="changeLang(this.id)">French</a>
-                            <a href="" title="German" id="German" onclick="changeLang(this.id)">German</a>
-                            <a href="" title="Russian" id="Russian" onclick="changeLang(this.id)">Russian</a>
-                        </div>
-                    </div>
-                    <button class="signin" id="signin" onclick="toLogin()">Sign In</button>
-                      <button class="signup" onclick="">Sign Up</button>
-                </div>
- 
-      </nav>
-      </header>    
-    <!-- -->
+	    <?php
+        include($_SERVER["DOCUMENT_ROOT"] . "/api/php/nav.php");
+    ?>
 
 <div class="container">
    	<div class="row main">
@@ -334,33 +281,10 @@
 </div>
 
 	</div>
-		<footer>
-		<div class="content">
-		<div class="top">
-			<div class="logo-details">
-			<span class="logo_name"><img src="images/SNLogo.svg" alt="Logo Temp"></span>
-		</div>
-			<div class="media-icons">
-				<a href="#"><i class="fa-facebook"></i></a>
-				<a href="#"><i class="fa-facebook"></i></a>
-				<a href="#"><i class="fa-facebook"></i></a>
-				<a href="#"><i class="fa-facebook"></i></a>
-				<a href="#"><i class="fa-facebook"></i></a>
-			</div>
-		  </div>
-		  	<hr class="hrstyle">
-			<div class="bottom-details">
-			<div class="bottom_text">
-				<span class="copyright_text"><a href="#"> Study Nest© 2023. All rights reserved</a></span>
-				<span class="Policy-terms">
-				   	<a href="#">Privacy policy</a>
-				   	<a href="#">Terms and condtions</a>
-				</span>
-			</div>
-			</div>
-		  <div class="link-boxes"></div>
-		</div>
-		</footer>
+        <?php
+            include("$_SERVER[DOCUMENT_ROOT]/api/php/footer.php");
+            include("$_SERVER[DOCUMENT_ROOT]/api/php/scripts.php");
+        ?>
 </div>
 </body>
 </html>
