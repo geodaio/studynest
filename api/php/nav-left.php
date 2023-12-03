@@ -1,6 +1,6 @@
 <div class="header-left">
             <div class="brand-title">
-              <a href="index.html"><img src="images/SNLogo.svg" alt="Logo that says StudyNest" id="header-logo"></a>
+              <a href="index.html"><img src="api/images/SNLogo.php" alt="Logo that says StudyNest" id="header-logo"></a>
             </div>
             <a href="#" class="toggle-button" onclick="openNav()">
               <span class="bar"></span>
