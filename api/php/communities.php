@@ -1,5 +1,6 @@
+<!DOCTYPE html>
 <?php
-    $title = "Communities";
+    $title = "About Us";
     include("api/php/head.php");
 ?>
     <body class="homepage">
