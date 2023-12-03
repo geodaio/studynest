@@ -1,13 +1,13 @@
 <?php
   try {
-    $dbuser = 'postgres';
-    $dbpass = 'abc123';
-    $dbhost = 'localhost';
-    $dbname='postgres';
-    $connec = new PDO("pgsql:host=$dbhost;dbname=$dbname", $dbuser, $dbpass);
+    $username = process.env.POSTGRES_USER;
+    $password = process.env.POSTGRES_PASSWORD;
+    $dbhost = process.env.POSTGRES_HOST;
+    $dbname= process.env.POSTGRES_DATABASE;
+    $connec = new PDO("pgsql:host=$dbhost;dbname=$dbname", $username, $password);
   }
   catch (PDOException $e) {
     echo "Error : " . $e->getMessage() . "<br/>";
     die();
   }
-</php>
+?>
