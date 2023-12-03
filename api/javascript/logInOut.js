@@ -45,5 +45,5 @@ window.onload = function () {
 	var documentVal = window.location.href;
     	var searchDocument = new URLSearchParams(documentVal);
     
-    	searchDocument.append('Content-Type', 'text/css');
+    	searchDocument.append('Content-Type', 'text/javascript');
 };
