@@ -7,7 +7,7 @@
     echo $email;
     echo $password;
     
-    include($_SERVER('DOCUMENT_ROOT') . "connect.php");
+    include($_SERVER['DOCUMENT_ROOT'] . "/api/connect.php");
 
     $sql = 'SELECT email FROM accounts WHERE email = \'' . $email . '\';';
 
@@ -20,7 +20,7 @@
       $passwordOnFile = $connec->query($sql);
 
       if (strcmp(string $passwordOnFile, string $password) == 0){
-        include($_SERVER('DOCUMENT_ROOT') . "logInOut.js");
+        include($_SERVER['DOCUMENT_ROOT'] . "/api/javascript/logInOut.js");
         signIn();
       }
       else {
