@@ -13,7 +13,7 @@
             <section class="intro-sect-left">
                 <h1 class="h1style">Connect, Collaborate, and  Unlock Academic Success Together</h1>
                 <p class="headerbody">Discover Your Ideal Study Buddy on Our Platform! Join Now to Boost Your Productivity and Achieve Academic Excellence as You Forge Meaningful Connections in Your Educational Journey</p>
-                <button id="get-started">Get Started</button>
+                <button id="get-started"><a href="api/php/questionaire.php">Get Started</a></button>
                 <div class="dottedcircle">
                 <img src="api/images/Ellipse.php" alt="Rotating dotted circle">
             </div>
