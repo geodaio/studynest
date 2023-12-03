@@ -34,7 +34,7 @@
 
     { "src": "(.*)/Ellipse.svg(.*)", "dest": "/api/images/Ellipse.svg" },
     { "src": "(.*)/Globe_icon.svg(.*)", "dest": "api/images/Globe_icon.svg" },
-    { "src": "(.*)/SNLogo.svg", "dest": "api/images/SNLogo.svg" },
+    { "src": "(.*)/SNLogo.svg(.*)", "dest": "api/images/SNLogo.svg" },
     { "src": "(.*)/SNbackground.jpg(.*)", "dest": "api/images/SNbackground.jpg" },
     { "src": "(.*)/computerkid1.jpg(.*)", "dest": "api/images/computerkid1.jpg" },
     { "src": "(.*)/computerkid2.jpg(.*)", "dest": "api/images/computerkid2.jpg" },
