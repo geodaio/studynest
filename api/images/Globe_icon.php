@@ -1,3 +1,6 @@
+<?php
+  header('Content-Type: image/svg+xml');
+?>
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="420"
 height="420" stroke="#000" fill="none">
