@@ -20,7 +20,7 @@
             </section>
             <section class="intro-sect-right">
                 
-               <img src="api/images/indeximage.svg" class="bannerimage" alt="Window of students imagery">
+               <img src="https://study-nest.vercel.app/api/images/indeximage.svg" class="bannerimage" alt="Window of students imagery">
                
             </section>
         </div>
