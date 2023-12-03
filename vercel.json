@@ -23,6 +23,8 @@
     { "src": "(.*)/profile.php(.*)", "dest": "api/php/profile.php" },
     { "src": "(.*)/questionaire.php(.*)", "dest": "api/php/questionaire.php" },
     { "src": "(.*)/settings.php(.*)", "dest": "api/php/settings.php" },
+    { "src": "(.*)/resources.php(.*)", "dest": "api/php/resources.php" },
+    { "src": "(.*)/how.php(.*)", "dest": "api/php/how.php" },
     
     { "src": "(.*)/style.php", "dest": "api/css/style.php" },
 
