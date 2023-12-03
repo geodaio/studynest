@@ -45,8 +45,4 @@ window.onload = function () {
 	if (found == false){
 		storeCookies("loggedIn", "false");
 	}
-	var documentVal = window.location.href;
-    	var searchDocument = new URLSearchParams(documentVal);
-    
-    	searchDocument.append('Content-Type', 'text/javascript');
 };
