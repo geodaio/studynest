@@ -5,6 +5,7 @@
     $dbhost = process.env.POSTGRES_HOST;
     $dbname= process.env.POSTGRES_DATABASE;
     $connec = new PDO("pgsql:host=$dbhost;dbname=$dbname", $username, $password, array(PDO::ATTR_PERSISTENT => true));
+    echo "success";
   }
   catch (PDOException $e) {
     echo "Error : " . $e->getMessage() . "<br/>";
