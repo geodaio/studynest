@@ -40,7 +40,7 @@
     { "src": "(.*)/computerkid2.jpg(.*)", "dest": "api/images/computerkid2.jpg" },
     { "src": "(.*)/footerlogo.svg(.*)", "dest": "api/images/footerlogo.svg" },
     { "src": "(.*)/girl_computer (1).jpg(.*)", "dest": "api/images/girl_computer (1).jpg" },
-    { "src": "(.*)/indeximage.svg(.*)", "dest": "https://study-nest.vercel.app/api/images/indeximage.svg" },
+    { "src": "(.*)/indeximage.svg(.*)", "dest": "(.*)/api/images/indeximage.svg" },
     { "src": "(.*)/indeximage2.svg(.*)", "dest": "/api/images/indeximage2.svg" },
     { "src": "(.*)/may-gauthier-s3mR42Spras-unsplash.jpg(.*)", "dest": "api/images/may-gauthier-s3mR42Spras-unsplash.jpg.jpg" },
     { "src": "(.*)/more.svg(.*)", "dest": "api/images/more.svg" },
