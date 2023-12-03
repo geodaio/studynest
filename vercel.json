@@ -5,6 +5,8 @@
     }
   },
   "routes": [
+    { "src": "(.*)/connect.php(.*)", "dest": "api/connect.php" },
+    
     { "src": "(.*)/head.php(.*)", "dest": "api/php/head.php" },
     { "src": "(.*)/nav-left.php(.*)", "dest": "api/php/nav-left.php" },
     { "src": "(.*)/nav-out.php(.*)", "dest": "api/php/nav-out.php" },
