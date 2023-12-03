@@ -20,7 +20,7 @@
       $passwordOnFile = $connec->query($sql);
 
       if (strcmp(string $passwordOnFile, string $password) == 0){
-        include("logInOut.js");
+        include($_SERVER('DOCUMENT_ROOT') . "logInOut.js");
         signIn();
       }
       else {
