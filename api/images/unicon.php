@@ -1,8 +1,8 @@
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-
 <?php
   header('Content-Type: image/svg+xml');
 ?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
 <!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
 <svg width="81px" height="81px" viewBox="0 -8.14 62.451 62.451" xmlns="http://www.w3.org/2000/svg" fill="#000000">
