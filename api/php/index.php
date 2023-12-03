@@ -20,7 +20,7 @@
             </section>
             <section class="intro-sect-right">
                 
-               <img src="api/images/indeximage.svg" class="bannerimage" alt="Window of students imagery">
+               <img src="api/images/indeximage.php" class="bannerimage" alt="Window of students imagery">
                
             </section>
         </div>
@@ -30,24 +30,24 @@
                  <div class="row scrolling_text">
                         <div class="runningtext">
                         <span>Study Together</span>
-                        <img src="api/images/unicon.svg" alt="Graduation Cap">
+                        <img src="api/images/unicon.php" alt="Graduation Cap">
                         <span>Study Together</span>
-                         <img src="api/images/unicon.svg" alt="Graduation Cap">
+                         <img src="api/images/unicon.php" alt="Graduation Cap">
                         <span>Study Together</span>
-                         <img src="api/images/unicon.svg" alt="Graduation Cap">
+                         <img src="api/images/unicon.php" alt="Graduation Cap">
                         <span>Study Together</span>
-                         <img src="api/images/unicon.svg" alt="Graduation Cap">
+                         <img src="api/images/unicon.php" alt="Graduation Cap">
                         <span>Study Together</span>
                         </div>
                         <div class="runningtext">
                          <span>Study Together</span>
-                          <img src="api/images/unicon.svg" alt="Graduation Cap">
+                          <img src="api/images/unicon.php" alt="Graduation Cap">
                         <span>Study Together</span>
-                         <img src="api/images/unicon.svg" alt="Graduation Cap">
+                         <img src="api/images/unicon.php" alt="Graduation Cap">
                         <span>Study Together</span>
-                         <img src="api/images/unicon.svg" alt="Graduation Cap">
+                         <img src="api/images/unicon.php" alt="Graduation Cap">
                         <span>Study Together</span>
-                         <img src="api/images/unicon.svg" alt="Graduation Cap">
+                         <img src="api/images/unicon.php" alt="Graduation Cap">
                         <span>Study Together</span>
                         </div>
                     </div>
@@ -61,7 +61,7 @@
         
              <div class="detailflexbox Aboutus">
             <section class="detail-sect-left">
-                 <img src="api/images/indeximage2.svg" class="aboutmeimage" alt="Window of a girl smiling while she's on video chat">
+                 <img src="api/images/indeximage2.php" class="aboutmeimage" alt="Window of a girl smiling while she's on video chat">
        
             </section>
             <section class="detail-sect-right">
