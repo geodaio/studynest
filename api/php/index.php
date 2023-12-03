@@ -15,7 +15,7 @@
                 <p class="headerbody">Discover Your Ideal Study Buddy on Our Platform! Join Now to Boost Your Productivity and Achieve Academic Excellence as You Forge Meaningful Connections in Your Educational Journey</p>
                 <button id="get-started">Get Started</button>
                 <div class="dottedcircle">
-                <img src="api/images/Ellipse.svg" alt="Rotating dotted circle">
+                <img src="api/images/Ellipse.svg" width="406" height="406" alt="Rotating dotted circle">
             </div>
             </section>
             <section class="intro-sect-right">
