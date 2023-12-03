@@ -9,21 +9,21 @@
             </a>
              <div class="navbar-links">
               <ul>
-                <li><a href="hub.html" title="Study Hub">Study Hub</a></li> 
-                <li><a href="" title="Temp">How it Works</a></li>
-                <li><a href="" title="Temp">Resources</a></li>
-                <li><a href="" title="Temp">About Us</a></li>
+                <li><a href="api/php/hub.php" title="Study Hub">Study Hub</a></li> 
+                <li><a href="api/php/how.php" title="Temp">How it Works</a></li>
+                <li><a href="api/php/resources.php" title="Temp">Resources</a></li>
+                <li><a href="api/php/about-us.php" title="Temp">About Us</a></li>
               </ul>
             </div>
             <div id="mySidenav" class="sidenav">
                 <div class="topheader">
                     <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-                    <a href="hub.html" title="Study Hub">Study Hub</a>
-                    <a href="#">How it Works</a>
-                    <a href="#">Resources</a>
-                    <a href="#">About Us</a>
+                    <a href="api/php/hub.php" title="Study Hub">Study Hub</a>
+                    <a href="api/php/how.php">How it Works</a>
+                    <a href="api/php/resources.php">Resources</a>
+                    <a href="api/php/about-us.php">About Us</a>
                     <button class="signin2"  onclick="toLogin()">Sign In</button>
-                    <button class="signup2" onclick="">Sign Up</button>
+                    <button class="signup2" onclick="toQuiz()">Sign Up</button>
                 </div>
             </div>
         </div>
