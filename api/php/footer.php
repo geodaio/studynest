@@ -2,7 +2,7 @@
         <div class="content">
         <div class="top">
             <div class="logo-details">
-            <span class="logo_name"><img src="images/footerlogo.svg" alt="Logo of Study nest in white" id="header-logo2"></span>
+            <span class="logo_name"><img src="api/images/footerlogo.php" alt="Logo of Study nest in white" id="header-logo2"></span>
         </div>
             <div class="media-icons">
                 <a href="#"><i class="fa-brands fa-square-facebook fa-xl"></i></a>
