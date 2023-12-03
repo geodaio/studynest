@@ -33,18 +33,18 @@
     { "src": "(.*)/studynest.js", "dest": "/api/javascript/studynest.js" },
 
     { "src": "(.*)/Ellipse.php(.*)", "dest": "/api/images/Ellipse.php" },
-    { "src": "(.*)/Globe_icon.svg(.*)", "dest": "api/images/Globe_icon.svg" },
-    { "src": "(.*)/SNLogo.svg(.*)", "dest": "api/images/SNLogo.svg" },
+    { "src": "(.*)/Globe_icon.php(.*)", "dest": "api/images/Globe_icon.php" },
+    { "src": "(.*)/SNLogo.php(.*)", "dest": "api/images/SNLogo.php" },
     { "src": "(.*)/SNbackground.jpg(.*)", "dest": "api/images/SNbackground.jpg" },
     { "src": "(.*)/computerkid1.jpg(.*)", "dest": "api/images/computerkid1.jpg" },
     { "src": "(.*)/computerkid2.jpg(.*)", "dest": "api/images/computerkid2.jpg" },
-    { "src": "(.*)/footerlogo.svg(.*)", "dest": "api/images/footerlogo.svg" },
+    { "src": "(.*)/footerlogo.php(.*)", "dest": "api/images/footerlogo.php" },
     { "src": "(.*)/girl_computer (1).jpg(.*)", "dest": "api/images/girl_computer (1).jpg" },
-    { "src": "(.*)/indeximage.svg(.*)", "dest": "(.*)/api/images/indeximage.svg" },
-    { "src": "(.*)/indeximage2.svg(.*)", "dest": "/api/images/indeximage2.svg" },
+    { "src": "(.*)/indeximage.php(.*)", "dest": "(.*)/api/images/indeximage.php" },
+    { "src": "(.*)/indeximage2.php(.*)", "dest": "/api/images/indeximage2.php" },
     { "src": "(.*)/may-gauthier-s3mR42Spras-unsplash.jpg(.*)", "dest": "api/images/may-gauthier-s3mR42Spras-unsplash.jpg.jpg" },
     { "src": "(.*)/more.svg(.*)", "dest": "api/images/more.svg" },
-    { "src": "(.*)/notification_logo.svg(.*)", "dest": "api/images/notification_logo.svg" },
+    { "src": "(.*)/notification_logo.php(.*)", "dest": "api/images/notification_logo.php" },
     { "src": "(.*)/profile.jpeg(.*)", "dest": "api/images/profile.jpeg" },
     { "src": "(.*)/profile.png(.*)", "dest": "api/images/profile.png" },
     { "src": "(.*)/profile1.png(.*)", "dest": "api/images/profile1.png" },
@@ -61,7 +61,7 @@
     { "src": "(.*)/student8.jpg(.*)", "dest": "api/images/student8.jpg" },
     { "src": "(.*)/student9.jpg(.*)", "dest": "api/images/student9.jpg" },
     { "src": "(.*)/studygroup.jpg(.*)", "dest": "api/images/studygroup.jpg" },
-    { "src": "(.*)/unicon.svg(.*)", "dest": "api/images/unicon.svg" },
+    { "src": "(.*)/unicon.php(.*)", "dest": "api/images/unicon.php" },
 
     { "src": "/(.*)", "dest": "api/php/index.php" }
   ]
