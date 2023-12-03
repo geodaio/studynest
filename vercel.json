@@ -32,7 +32,7 @@
     { "src": "(.*)/profile.js", "dest": "/api/javascript/profile.js" },
     { "src": "(.*)/studynest.js", "dest": "/api/javascript/studynest.js" },
 
-    { "src": "(.*)/Ellipse.svg(.*)", "dest": "/api/images/Ellipse.svg" },
+    { "src": "(.*)/Ellipse.php(.*)", "dest": "/api/images/Ellipse.php" },
     { "src": "(.*)/Globe_icon.svg(.*)", "dest": "api/images/Globe_icon.svg" },
     { "src": "(.*)/SNLogo.svg(.*)", "dest": "api/images/SNLogo.svg" },
     { "src": "(.*)/SNbackground.jpg(.*)", "dest": "api/images/SNbackground.jpg" },
