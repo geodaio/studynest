@@ -1,3 +1,7 @@
+<?php
+  header('Content-Type: image/svg+xml');
+?>
+
 <svg width="558" height="387" viewBox="0 0 558 387" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g filter="url(#filter0_d_99_147)">
 <rect y="13" width="536" height="354" rx="16" fill="white"/>
