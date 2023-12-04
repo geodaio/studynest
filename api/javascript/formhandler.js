@@ -10,7 +10,7 @@ form.addEventListener('submit', (event) => {
   })
   .then(response => {
     if (response.ok) {
-      logInOut.signIn();
+      signIn();
     } 
     else if (response.text != ""){
       console.log(response.text);
