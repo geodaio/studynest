@@ -12,12 +12,13 @@ form.addEventListener('submit', (event) => {
     if (response.ok) {
       signIn();
     } 
-    else if (response.text != ""){
-      console.log(response.text);
-      myDiv.innerHTML = "</p>" + response.text + "</p>";
+    else if (response.status == "400"){
+      myDiv.innerHTML = "<p>Incorrect password for this email address. Please enter the password associated with this account, or reset your password.</p>";
+    }
+    else if (response.status == "404"){
+      myDiv.innerHTML = "<p>No account attatched to this email. Please enter a valid email address, or sign up now!</p>";
     }
     else {
-      console.log(response.text);
       myDiv.innerHTML = '<p>There was an error completing your log in. Please try again later.</p>';
     }
   });
