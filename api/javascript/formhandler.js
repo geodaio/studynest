@@ -1,12 +1,13 @@
-const form = document.getElementById("form-login");
 form.addEventListener('submit', (event) => {
   event.preventDefault();
-  
-  const formData = new FormData(form);
+
+  const email = document.getElementById("email");
+  const password = document.getElementById("password");
+  const jsonSend = email + ", " + password;
 
   fetch("api/php/in.php", {
     method: 'POST',
-    body: JSON.stringify(formData)
+    body: JSON.stringify(jsonSend)
   })
   .then(response => {
     if (response.ok) {
