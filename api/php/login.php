@@ -2,7 +2,7 @@
 
 <?php
     $title = "Login";
-    include($_SERVER["DOCUMENT_ROOT"] . "/api/php/head.php");
+    include($_SERVER['DOCUMENT_ROOT'] . "/api/php/head.php");
 ?>
 <body id="body-login">
     <section class="flexbox-column">
@@ -26,7 +26,7 @@
           </div>
     </section>
     <?php
-        include("$_SERVER[DOCUMENT_ROOT]/api/php/scripts.php");
+        include($_SERVER['DOCUMENT_ROOT'] . "/api/php/scripts.php");
     ?>
 </body>
 </html>
