@@ -17,6 +17,7 @@
               <input type="password" id="password" name="password"><br>
               <input type="submit" id="login-button" value="Login">
             </form>
+            <div id="myDiv"></div>
             <button class="" id="forgot-password" onclick="">Forgot password?</button>
             <div id="button-log">
                 <button class="" id="google-log"><img src="temp" alt="Google" title="Sign in with Google"></button>
