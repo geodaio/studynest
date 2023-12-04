@@ -66,6 +66,9 @@
     { "src": "(.*)/student9.jpg(.*)", "dest": "api/images/student9.jpg" },
     { "src": "(.*)/studygroup.jpg(.*)", "dest": "api/images/studygroup.jpg" },
     { "src": "(.*)/unicon.php(.*)", "dest": "api/images/unicon.php" },
+    { "src": "(.*)/favicon-dark.php(.*)", "dest": "api/images/favicon-dark.php" },
+    { "src": "(.*)/favicon-light.php(.*)", "dest": "api/images/favicon-light.php" },
+    { "src": "(.*)/favicon.ico(.*)", "dest": "api/images/favicon.ico" },
 
     { "src": "/(.*)", "dest": "api/php/index.php" }
   ]
