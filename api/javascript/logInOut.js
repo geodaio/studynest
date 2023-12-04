@@ -5,7 +5,6 @@ function storeCookies(name, value){
 	console.log(document.cookie);
 }
 function signIn() {
-	event.preventDefault();
 	storeCookies("loggedIn", "true");
 	window.location.assign("https://study-nest.vercel.app/");
 	console.log(document.cookie);
