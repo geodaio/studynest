@@ -43,6 +43,7 @@ window.onload = function () {
  		}
 	 }
 	if (found == false){
+		console.log("loggedout");
 		storeCookies("loggedIn", "false");
 	}
 };
