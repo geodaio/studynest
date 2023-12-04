@@ -23,11 +23,11 @@
         signIn();
       }
       else {
-        return "<p>Incorrect password for this email address. Please enter the password associated with this account, or reset your password.</p>";
+        var_dump(http_response_code(400));
       }
     }
     else {
-      return "<p>No account attatched to this email. Please enter a valid email address, or sign up now!</p>";
+      var_dump(http_response_code(404));
     }
   }
 ?>
