@@ -593,25 +593,28 @@ width:100%;
   border-style:solid;
 }
 .sign-in {
-  background-color:#FEFCF8;
-  border-width: 2px;
-  border-color:#293730;
-  border-style:solid;
+    background-color: #FEFCF8;
+    border-width: 2px;
+    border-color: #293730;
+    border-style: solid;
+    margin-right:-42%;
 }
+
 .dropdown {
-  display:inline-block;
-  position:relative;
-  display: flex;
-  width:44%;
-  margin:auto;
+    display: inline-block;
+    position: relative;
+    display: flex;
+    width: 44%;
+    margin: auto;
 }
 
 .sign-up {
-  background-color:#293730;
-  border-width: 2px;
-  border-color:#293730;
-  border-style:solid;
-  color:#FEFCF8;
+    background-color: #293730;
+    border-width: 2px;
+    border-color: #293730;
+    border-style: solid;
+    color: #FEFCF8;
+    margin-right:-5%;
 }
 
 .dropdown-button{
