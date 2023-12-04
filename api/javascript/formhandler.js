@@ -6,7 +6,7 @@ form.addEventListener('submit', (event) => {
 
   fetch("api/php/in.php", {
     method: 'POST',
-    body: formData
+    body: JSON.stringify(formData)
   })
   .then(response => {
     if (response.ok) {
