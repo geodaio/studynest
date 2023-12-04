@@ -6,9 +6,6 @@
     $email = trim($input['email']);
     $password = trim($input['password']));
     
-    echo $email;
-    echo $password;
-    
     include($_SERVER['DOCUMENT_ROOT'] . "/api/connect.php");
 
     $sql = 'SELECT email FROM accounts WHERE email = \'' . $email . '\';';
@@ -26,11 +23,11 @@
         signIn();
       }
       else {
-        echo "<p>Incorrect password for this email address. Please enter the password associated with this account, or reset your password.</p>";
+        return "<p>Incorrect password for this email address. Please enter the password associated with this account, or reset your password.</p>";
       }
     }
     else {
-      echo "<p>No account attatched to this email. Please enter a valid email address, or sign up now!</p>";
+      return "<p>No account attatched to this email. Please enter a valid email address, or sign up now!</p>";
     }
   }
 ?>
