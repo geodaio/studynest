@@ -13,9 +13,11 @@ form.addEventListener('submit', (event) => {
       logInOut.signIn();
     } 
     else if (response.text != ""){
+      console.log(response.text);
       myDiv.innerHTML = "</p>" + response.text + "</p>";
     }
     else {
+      console.log(response.text);
       myDiv.innerHTML = '<p>There was an error completing your log in. Please try again later.</p>';
     }
   });
