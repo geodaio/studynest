@@ -12,7 +12,7 @@
   <i class="fa-solid fa-xmark fa-2xl" id="exit"></i></a>
 <h1 class="titletext"> Before we begin your search, let's answer a few questions </h1>
 <h3> Please enter at least one search item </h3>
-<form action="/action_page.php">
+<form id="introQuiz" action="/action_page.php">
       <div class="row">
 
 <div class="leftcolumn">
