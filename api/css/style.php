@@ -577,7 +577,7 @@ width:100%;
   background-color:#293730;
   color:#FEFCF8;
 }
-.signin, .signup {
+.sign-in, .sign-up {
   width:25%;
   padding: 10px;
   margin:auto;
@@ -592,7 +592,7 @@ width:100%;
   border-color:#293730;
   border-style:solid;
 }
-.signin {
+.sign-in {
   background-color:#FEFCF8;
   border-width: 2px;
   border-color:#293730;
@@ -606,7 +606,7 @@ width:100%;
   margin:auto;
 }
 
-.signup {
+.sign-up {
   background-color:#293730;
   border-width: 2px;
   border-color:#293730;
