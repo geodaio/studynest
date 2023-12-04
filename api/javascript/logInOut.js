@@ -22,6 +22,9 @@ function toLogin() {
 function toQNA() {
 	window.location.assign("https://study-nest.vercel.app/api/php/questionaire.php");
 }
+function backToHome() {
+	window.location.assign("https://study-nest.vercel.app/");
+}
 window.onload = function () {
 	var found = false;
  	console.log("test");
