@@ -1,8 +1,10 @@
 <?php
+
+  $input = json_decode(file_get_contents('php://input'), true);
   if(isset($_POST['submit'])) {
 
-    $email = trim($_POST("email"));
-    $password = trim($_POST("password"));
+    $email = trim($input['email']);
+    $password = trim($input['password']));
     
     echo $email;
     echo $password;
