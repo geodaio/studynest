@@ -29,6 +29,7 @@
                 <div class="right">
                  <div class="row scrolling_text">
                         <div class="runningtext">
+                        <img src="api/images/unicon.php" alt="Graduation Cap">
                         <span>Study Together</span>
                         <img src="api/images/unicon.php" alt="Graduation Cap">
                         <span>Study Together</span>
@@ -48,7 +49,6 @@
                          <img src="api/images/unicon.php" alt="Graduation Cap">
                         <span>Study Together</span>
                          <img src="api/images/unicon.php" alt="Graduation Cap">
-                        <span>Study Together</span>
                         </div>
                     </div>
                     </div>
