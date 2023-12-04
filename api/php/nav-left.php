@@ -23,7 +23,7 @@
                     <a href="api/php/resources.php">Resources</a>
                     <a href="api/php/about-us.php">About Us</a>
                     <button class="signin2"  onclick="toLogin()">Sign In</button>
-                    <button class="signup2" onclick="toQuiz()">Sign Up</button>
+                    <button class="signup2" onclick="toQNA()">Sign Up</button>
                 </div>
             </div>
         </div>
