@@ -1,73 +1,14 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    
-    <title>Home</title>
-    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" id="favicon"/>
-    
-    <link rel="stylesheet" type="text/css" href="css/studynest.css">
 
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;700&family=PT+Serif&display=swap" rel="stylesheet"> <!--Previous three links are links for Google Fonts-->
+	<?php
+	    $title = "Profile";
+	    include($_SERVER["DOCUMENT_ROOT"] . "/api/php/head.php");
+	?>
 
-</head>
-    <body id="profilepage">
-	   <header id="header-out">
-      <nav class="navbar flexbox ">
-         <div class="header-left">
-        <div class="brand-title">
-          <a href="index.html"><img src="images/SNLogo.svg" alt="Logo Temp" id="header-logo"></a>
-        </div>
-        <a href="#" class="toggle-button" onclick="openNav()">
-          <span class="bar"></span>
-          <span class="bar"></span>
-          <span class="bar"></span>
-        </a>
-     <div class="navbar-links">
-          <ul>
-       <li><a href="hub.html" title="Study Hub">Study Hub</a></li> 
-            <li><a href="" title="Temp">How it Works</a></li>
-            <li><a href="" title="Temp">Resources</a></li>
-            <li><a href="" title="Temp">About Us</a></li>
-          </ul>
-        </div>
-           
-           <div id="mySidenav" class="sidenav">
-             <div class="topheader">
-              <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-              <a href="#">How it Works</a>
-              <a href="#">Resources</a>
-              <a href="#">About Us</a>
-             <button class="signin2" onclick="toLogin()">Sign In</button>
-             <button class="signup2" onclick="">Sign Up</button>
-             
-           </div>
-</div>
-        </div>
-        
-        <div class="header-right">
-          
-                    <div class="dropdown">
-                        <button class="dropdown-button" id="lang"><img src="images/Globe_icon.svg" alt="ALTTEXT" id="dropdown-img">English</button>
-                        <div class="lang-options">
-                            <a href="" title="English" id="English" onclick="changeLang(this.id)">English</a>
-                            <a href="" title="Spanish" id="Spanish" onclick="changeLang(this.id)">Spanish</a>
-                            <a href="" title="French" id="French" onclick="changeLang(this.id)">French</a>
-                            <a href="" title="German" id="German" onclick="changeLang(this.id)">German</a>
-                            <a href="" title="Russian" id="Russian" onclick="changeLang(this.id)">Russian</a>
-                        </div>
-                    </div>
-                    <button class="signin" id="signin" onclick="toLogin()">Sign In</button>
-                      <button class="signup" onclick="">Sign Up</button>
-                </div>
- 
-      </nav>
-      </header>   
-        
+	<body id="profilepage">
+	  <?php
+        include($_SERVER["DOCUMENT_ROOT"] . "/api/php/nav.php");
+    ?>
         <section id="profile-sect-1">
             <div class="flexbox-column">
                <img src="images/SNbackground.jpg" alt="" title="" id="profile-header-img-profile">
