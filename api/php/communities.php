@@ -1,15 +1,19 @@
 <!DOCTYPE html>
 <?php
-    $title = "About Us";
-    include("api/php/head.php");
+    $title = "Communities";
+    include($_SERVER["DOCUMENT_ROOT"] . "/api/php/head.php");
 ?>
     <body class="homepage">
         <?php
-            include("api/php/nav.php");
+            include($_SERVER["DOCUMENT_ROOT"] . "/api/php/nav.php");
         ?>
+
+        <h1>Hey! This page is still under construction!</h1>
+        <h2>Check back later for more information!</h2>
+        
         <?php
-            include("api/php/footer.php");
-            include("api/php/scripts.php");
+            include($_SERVER["DOCUMENT_ROOT"] . "/api/php/footer.php");
+            include($_SERVER["DOCUMENT_ROOT"] . "/api/php/scripts.php");
         ?>
     </body>
 </html>
