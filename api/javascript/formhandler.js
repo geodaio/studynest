@@ -1,6 +1,8 @@
 document.getElementById("form-login").addEventListener('submit', (event) => {
   event.preventDefault();
-  import sql from '@vercel/postgres';
+  
+  import { sql } from '@vercel/postgres';
+  
   export default async function handler(
     request: VercelRequest,
     response: VercelResponse,
