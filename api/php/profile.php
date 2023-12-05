@@ -11,7 +11,7 @@
     ?>
         <section id="profile-sect-1">
             <div class="flexbox-column">
-               <img src="images/SNbackground.jpg" alt="" title="" id="profile-header-img-profile">
+               <img src="api/images/SNbackground.jpg" alt="" title="" id="profile-header-img-profile">
 <div class="profilecontainer">
   <div class="profile-header">
     <div class="profile-img">
@@ -31,7 +31,7 @@
     </div>
                 </div>
     <div class="profile-option">
-      <a href="messages.html" id="message-user">Message</a>
+      <a href="api/php/messages.php" id="message-user">Message</a>
     <a href="" id="add-buddy">Connect</a>
     </div>
   
@@ -73,7 +73,6 @@
                     <button id="sb" onclick="toSBProfile()">Study Buddies</button>
                     <button id="ra" onclick="toRAProfile()">Recent Activity</button>
                     <div id="profile-section-sg">
-                        <!--STUDY GROUP OBJECT TO READ THIS ONE IN?????-->
                         <div class="study-group">
                             <!--START KAT CODE-->
                             <div class="avatars">
