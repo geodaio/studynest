@@ -10,12 +10,12 @@
             <button class="" id="leave-login" onclick="backToHome()"><img src="temp" alt="X" title=""></button>
             <h2>Login</h2>
             <p>Sign in to continue access</p>
-            <form id="form-login" method="post" action="">
+            <form id="form-login">
               <label for="email">Email Address:</label><br>
               <input type="email" id="email" name="email"><br>
               <label for="password">Password:</label><br>
               <input type="password" id="password" name="password"><br>
-              <input type="submit" id="login-button" value="Login">
+              <input type="submit" id="login-button" value="Login" onclick="signIn()">
             </form>
             <div id="myDiv"></div>
             <button class="" id="forgot-password" onclick="">Forgot password?</button>
