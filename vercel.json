@@ -35,8 +35,6 @@
     { "src": "(.*)/logInOut.js", "dest": "/api/javascript/logInOut.js" },
     { "src": "(.*)/profile.js", "dest": "/api/javascript/profile.js" },
     { "src": "(.*)/studynest.js", "dest": "/api/javascript/studynest.js" },
-    { "src": "(.*)/formhandler.js", "dest": "/api/javascript/formhandler.js" },
-    { "src": "(.*)/quizhandler.js", "dest": "/api/javascript/quizhandler.js" },
     
     { "src": "(.*)/Ellipse.php(.*)", "dest": "/api/images/Ellipse.php" },
     { "src": "(.*)/Globe_icon.php(.*)", "dest": "api/images/Globe_icon.php" },
