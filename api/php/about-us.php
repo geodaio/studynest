@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <?php
     $title = "About Us";
-    include("api/php/head.php");
+    include($_SERVER["DOCUMENT_ROOT"] . "/api/php/head.php");
 ?>
     <body class="homepage">
         <?php
-            include("api/php/nav.php");
+            include($_SERVER["DOCUMENT_ROOT"] . "/api/php/nav.php");
         ?>
         <h1>Welcome to Study Nest</h1>
         
@@ -28,8 +28,8 @@
         <button type="button" id="">Sign Up Today!</button>
         
         <?php
-            include("api/php/footer.php");
-            include("api/php/scripts.php");
+            include($_SERVER["DOCUMENT_ROOT"] . "/api/php/footer.php");
+            include($_SERVER["DOCUMENT_ROOT"] . "/api/php/scripts.php");
         ?>
     </body>
 </html>
