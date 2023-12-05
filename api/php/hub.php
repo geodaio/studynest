@@ -42,24 +42,24 @@
                  <div class="row scrolling_text">
                         <div class="runningtext">
                         <span>Study Together</span>
-                        <img src="images/unicon.svg" alt="Graduation Cap">
+                        <img src="api/images/unicon.php" alt="Graduation Cap">
                         <span>Study Together</span>
-                         <img src="images/unicon.svg" alt="Graduation Cap">
+                         <img src="api/images/unicon.php" alt="Graduation Cap">
                         <span>Study Together</span>
-                         <img src="images/unicon.svg" alt="Graduation Cap">
+                         <img src="api/images/unicon.php" alt="Graduation Cap">
                         <span>Study Together</span>
-                         <img src="images/unicon.svg" alt="Graduation Cap">
+                         <img src="api/images/unicon.php" alt="Graduation Cap">
                         <span>Study Together</span>
                         </div>
                         <div class="runningtext">
                          <span>Study Together</span>
-                          <img src="images/unicon.svg" alt="Graduation Cap">
+                          <img src="api/images/unicon.php" alt="Graduation Cap">
                         <span>Study Together</span>
-                         <img src="images/unicon.svg" alt="Graduation Cap">
+                         <img src="api/images/unicon.php" alt="Graduation Cap">
                         <span>Study Together</span>
-                         <img src="images/unicon.svg" alt="Graduation Cap">
+                         <img src="api/images/unicon.php" alt="Graduation Cap">
                         <span>Study Together</span>
-                         <img src="images/unicon.svg" alt="Graduation Cap">
+                         <img src="api/images/unicon.php" alt="Graduation Cap">
                         <span>Study Together</span>
                         </div>
                     </div>
@@ -73,7 +73,7 @@
 		<h2 class="heading3">Looking for study buddies</h2>
 		<div class="nearyou">
 		<div class="card">
-			  <img src="images/student2.jpg" alt="John" style="width:100%">
+			  <img src="api/images/student2.jpg" alt="John" style="width:100%">
 			  <h3 class="studentname">Student Name</h3>
 			   <div class="cardcontent">
 			  <p class="title">@ Informatics</p>
@@ -88,7 +88,7 @@
 		</div>
 
 		<div class="card">
-			  <img src="images/student1.jpg" alt="John" style="width:100%">
+			  <img src="api/images/student1.jpg" alt="John" style="width:100%">
 			  <h3 class="studentname">Student Name</h3>
 			   <div class="cardcontent">
 			  <p class="title">@ Computer Science</p>
@@ -103,7 +103,7 @@
 		</div>
 
 		<div class="card">
-			  <img src="images/student4.jpg" alt="John" style="width:100%">
+			  <img src="api/images/student4.jpg" alt="John" style="width:100%">
 			  <h3 class="studentname">Student Name</h3>
 			   <div class="cardcontent">
 			  <p class="title">@ Cybersecurity</p>
@@ -118,7 +118,7 @@
 		</div>
 
 		<div class="card">
-			  <img src="images/student6.jpg" alt="John" style="width:100%">
+			  <img src="api/images/student6.jpg" alt="John" style="width:100%">
 			  <h3 class="studentname">John Doe</h3>
 			  <div class="cardcontent">
 			  <p class="title">@ Cybersecurity </p>
@@ -225,7 +225,7 @@
   <div class="personcontainer">
   <div class="userboard">
   <p class="rank"> 1</p>
-  <img src="images/student9.jpg"  alt="Avatar" style="width:56px">
+  <img src="api/images/student9.jpg"  alt="Avatar" style="width:56px">
   <p class="name">Vijaya R</p>
   <p class="points">409 hours</p>
  </div>
@@ -234,7 +234,7 @@
 <div class="personcontainer">
   <div class="userboard">
   <p class="rank"> 2</p>
-  <img src="images/student2.jpg"  alt="Avatar" style="width:56px">
+  <img src="api/images/student2.jpg"  alt="Avatar" style="width:56px">
   <p class="name">Shah M</p>
   <p class="points">380 hours</p>
  </div>
@@ -243,7 +243,7 @@
 <div class="personcontainer">
   <div class="userboard">
   <p class="rank"> 3</p>
-  <img src="images/student5.jpg"  alt="Avatar" style="width:56px">
+  <img src="api/images/student5.jpg"  alt="Avatar" style="width:56px">
   <p class="name">Chris F</p>
   <p class="points">320 hours</p>
  </div>
@@ -252,7 +252,7 @@
 <div class="personcontainer">
   <div class="userboard">
   <p class="rank"> 4</p>
-  <img src="images/student8.jpg"  alt="Avatar" style="width:56px">
+  <img src="api/images/student8.jpg"  alt="Avatar" style="width:56px">
   <p class="name">Emily L</p>
   <p class="points">301 hours</p>
  </div>
@@ -261,7 +261,7 @@
 <div class="personcontainer">
   <div class="userboard">
   <p class="rank"> 5</p>
-  <img src="images/student3.jpg"  alt="Avatar" style="width:56px">
+  <img src="api/images/student3.jpg"  alt="Avatar" style="width:56px">
   <p class="name">Isak G</p>
   <p class="points">290 hours</p>
  </div>
@@ -272,7 +272,7 @@
   </div>
   <div class="flex-item-right">
   	<div class="leadercontainer">
-  <img src="images/student9.jpg" alt="Avatar" style="width:136px" class="image1rank">
+  <img src="api/images/student9.jpg" alt="Avatar" style="width:136px" class="image1rank">
   <div class="rank1">
   <p><span>Vijaya R</span></p>
   <p>Rank 1</p>
