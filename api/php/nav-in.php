@@ -1,4 +1,4 @@
-<button class="notification-bell" id="notifications-header"><img src="api/images/notification_logo.svg" alt="ALTTEXT" id="notification-bell-img"></button>
+<a href="#"><i class="fa-regular fa-bell"></i></a>
 <div class="dropdown">
 	<button class="dropdown-button" id="profile-header"><img src="api/images/profile.jpeg" alt="ALTTEXT" id="profile-pic-header"></button>
 	<div class="lang-options">
