@@ -3,4 +3,3 @@
 <script type="text/javascript" src="api/javascript/logInOut.js"></script>
 <script type="text/javascript" src="api/javascript/studynest.js"></script>
 <script type="text/javascript" src="api/javascript/profile.js"></script>
-<script type="text/javascript" src="api/javascript/formhandler.js"></script>
