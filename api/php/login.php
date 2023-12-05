@@ -7,7 +7,7 @@
 <body id="body-login">
     <section class="flexbox-column">
           <div id="login-sect">
-            <button class="" id="leave-login" onclick="backToHome()"><img src="temp" alt="X" title=""></button>
+            <a href="api/php/index.php"><i class="fa-solid fa-xmark fa-2xl" id="leave-login"></i></a>
             <h2>Login</h2>
             <p>Sign in to continue access</p>
             <form id="form-login">
@@ -20,9 +20,9 @@
             <div id="myDiv"></div>
             <button class="" id="forgot-password" onclick="">Forgot password?</button>
             <div id="button-log">
-                <button class="" id="google-log"><img src="temp" alt="Google" title="Sign in with Google"></button>
-                <button id="twitter-log"><img src="temp" alt="Twitter" title="Sign in with X (Formerly Twitter)"></button>
-                <button id="fb-log"><img src="temp" alt="Facebook" title="Sign in with Facebook"></button>
+                <a href="#"><i class="fa-brands fa-google fa-xl"></i></a>
+                <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
+                <a href="#"><i class="fa-brands fa-square-facebook fa-xl"></i></a>
             </div>
           </div>
     </section>
