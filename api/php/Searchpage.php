@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <?php
     $title = "About Us";
-    include("api/php/head.php");
+    include($_SERVER["DOCUMENT_ROOT"] . "/api/php/head.php");
 ?>
 
 <body class="searching">
@@ -122,8 +122,8 @@
 	</div>
 
 	<?php
-        include("$_SERVER[DOCUMENT_ROOT]/api/php/footer.php");
-        include("$_SERVER[DOCUMENT_ROOT]/api/php/scripts.php");
+        include($_SERVER["DOCUMENT_ROOT"] . "/api/php/footer.php");
+        include($_SERVER["DOCUMENT_ROOT"] . "/api/php/scripts.php");
     ?>
 </body>
 </html>
