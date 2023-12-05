@@ -372,7 +372,7 @@ iframe{
 }
 /*footer */
 footer {
-  position: relative;
+  position: fixed;
   background:#293730;
   width: 100%;
   bottom: 0;
