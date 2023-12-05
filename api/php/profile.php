@@ -128,7 +128,6 @@
                     </div>
                 </aside>
                     <div id="profile-section-sb">
-                        <!--NOTE TO SELF: MAKE A BUDDY OBJECT TO MAKE THIS SECTION WORK, BUDDY CONSTRUCTOR IS CALLED FOR LENGTH OF BUDDY ARRAY AFTER BEING READ IN FROM FILE-->
                         <div class="person">
                 <img src="https://picsum.photos/70" alt="temp" title="" class="pfp-buddy">
                 <div class="person-text">
@@ -146,6 +145,9 @@
             </div>
         </div>
         </section>
-        
+        <?php
+            include("$_SERVER[DOCUMENT_ROOT]/api/php/footer.php");
+            include("$_SERVER[DOCUMENT_ROOT]/api/php/scripts.php");
+        ?>
     </body>
 </html>
