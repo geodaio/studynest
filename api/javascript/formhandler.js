@@ -1,11 +1,33 @@
 document.getElementById("login-button").addEventListener('submit', (event) => {
   event.preventDefault();
+  
+  import { sql } from '@vercel/postgres';
+   
+  export default async function handler(
+    request: VercelRequest,
+    response: VercelResponse,
+  ) {
+    try {
+      const result =
+        const email = document.getElementById("email");
+        const password = document.getElementById("password");
+      
+        if (!email) throw new Error('Email required for login.');
+        else if (!password) throw new Error('Password required for login.');
+      
+        var emailCheck = await sql`SELECT email FROM accounts WHERE email = '` . $email . `';`;
+        console.log(enailCheck);
+    } catch (error) {
+        return response.status(500).json({ error });
+    }
+    return response.status(200).json({ result });
+  }
 
-  const email = document.getElementById("email");
-  const password = document.getElementById("password");
-  const jsonSend = email + ", " + password;
 
-  fetch("api/php/in.php", {
+  
+  //const jsonSend = email + ", " + password;
+  
+/*  fetch("api/php/in.php", {
     method: 'POST',
     body: JSON.stringify(jsonSend)
   })
@@ -22,5 +44,5 @@ document.getElementById("login-button").addEventListener('submit', (event) => {
     else {
       myDiv.innerHTML = '<p>There was an error completing your log in. Please try again later.</p>';
     }
-  });
+  });*/
 });
