@@ -104,7 +104,6 @@
           </section>   
         </div>
         <?php
-            include("$_SERVER[DOCUMENT_ROOT]/api/php/footer.php");
             include("$_SERVER[DOCUMENT_ROOT]/api/php/scripts.php");
         ?>
     </body>
