@@ -67,8 +67,8 @@
                  <img class="profile-pic" src="https://images.unsplash.com/photo-1610216705422-caa3fcb6d158?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDB8fGZhY2V8ZW58MHwyfDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="Avatar" style="width:64px">
          <div class="online2"></div>
                 <div class="person-bio">
-                      <p class="selectedname">Name.</p>
-                      <p class="activity">John Doe </p>
+                    <p class="selectedname bold">Vijaya R</p>
+                     <p class="activity">@ Informatics</p>
                 
                   </div>
                      <img src="api/images/more.php" style="width:40px" alt="three dots icon" class="morebtn">
@@ -76,15 +76,15 @@
         <div class="messages-chat">
           <div class="message">
             <div class="response">
-              <p class="text"> Hey Megan ! It's been a while 😃</p>
+              <p class="text">Hey Viv!😃</p>
             </div>
           </div>
           <div class="message">
             <div class="response">
-              <p class="text"> When can we meet ?</p>
+              <p class="text">How are you?</p>
             </div>
           </div>
-          <p class="response-time time"> 15h04</p>
+          <p class="response-time time">Now</p>
       
         </div>
         
