@@ -29,7 +29,7 @@
                         else {
                                     include($_SERVER['DOCUMENT_ROOT'] . "/api/php/nav-out.php");
                         }
-                     >
-                </div>
-            </div>
-        </div>
+                     ?>
+		</div>
+	    </div>
+</div>
