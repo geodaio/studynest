@@ -457,8 +457,8 @@ footer .content .link-boxes{width:100%;display:flex;justify-content: space-betwe
     /*For smaller screens size like phones*/
 @media screen and (min-width:471px) and (max-width:518px){.left,.style2{width:100%}.lefthub{padding:24px 28px;flex:48}.nearyou,.nearyou2{grid-template-columns:repeat(1,1fr)}.main2 h2{padding-right:8px}.left{display:block;margin-right:auto;margin-left:auto}.main{padding:40px 16px 40px 16px }.btn3{width:170px;margin-top:24px;border-radius:5px;font-size:1em;background-color:#293730;border:2px solid #293730;color:#fefcf8;cursor:pointer}.details{text-align:center;background:#fff;height:408px;border:1px solid #000;border-radius:5%;padding:16px}.nearyou{grid-gap:20px}.nearyou2{grid-template-columns:320px;grid-template-rows:240px 240px 240px 240px}h1{font-size:48px}.sideright{border-radius:5px;font-size:1em;width:128px;padding:1.5%;border:2px solid #293730;color:black;cursor:pointer;margin:0 0px 16px 2px;}}
 /* Super small screens */
-@media screen and (max-width: 471px){ //CHANGED and (min-width:320px)
-.filtersearch{float:left;margin-top:24px;margin-bottom:8px;}.lefthub{padding:24px 28px;flex:48}.sideright{border-radius:5px;font-size:1em;width:128px;padding:1.5%;background-color:orange;border:2px solid #293730;color:black;cursor:pointer;margin:0 0px 16px 4px;}.testingsome{position:relative;right:0;width:80%; margin-top: 90px}.left {width: 100%;display:block;margin-right:auto;margin-left: auto}
+@media screen and (max-width: 471px) and (min-width:320px){
+.filtersearch{float:left;margin-top:24px;margin-bottom:8px;}.lefthub{padding:24px 28px;flex:48}.sideright{border-radius:5px;font-size:1em;width:128px;padding:1.5%;/*REMOVED BACKGROUND COLOR*/;border:2px solid #293730;color:black;cursor:pointer;margin:0 0px 16px 4px;}.testingsome{position:relative;right:0;width:80%; margin-top: 90px}.left {width: 100%;display:block;margin-right:auto;margin-left: auto}
 
 .btn2{
   display:block;
