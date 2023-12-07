@@ -71,7 +71,7 @@
                       <p class="activity">John Doe </p>
                 
                   </div>
-                     <img src="images/more.svg" style="width:40px" alt="three dots icon" class="morebtn">
+                     <img src="api/images/more.php" style="width:40px" alt="three dots icon" class="morebtn">
         </div>
         <div class="messages-chat">
           <div class="message">
