@@ -610,15 +610,6 @@ width:100%;
     border-width: 2px;
     border-color: #293730;
     border-style: solid;
-    margin-right:-42%;
-}
-
-.dropdown {
-    display: inline-block;
-    position: relative;
-    display: flex;
-    width: 44%;
-    margin: auto;
 }
 
 .sign-up {
@@ -627,33 +618,7 @@ width:100%;
     border-color: #293730;
     border-style: solid;
     color: #FEFCF8;
-    margin-right:-5%;
 }
-
-.dropdown-button{
-  width:100%;
-  height:100%;
-  margin-left: 49px;
-  padding: 1rem 1rem 1rem 1rem;
-  background-color:#FEFCF8;
-  border-color:#FEFCF8;
-  border-style:solid;
-  font-size:.9em;
-}
-
-#dropdown-img {
-  max-width:16px;
-  max-height: 16px;
-  margin-right: 8px;
-  display:inherit;
-  position:relative;
-}
-#lang{
-  max-width:60%;
-  display:inherit;
-  position:relative;
-}
-
 
 .sidenav {
   height: 100%;
