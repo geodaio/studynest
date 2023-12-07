@@ -552,7 +552,7 @@ width:100%;
   width:40%;
   float:right;
   display:inherit;
-  flex-direction:inherit;
+  flex-direction:row-reverse;
  margin-right:4%;
 }
 
