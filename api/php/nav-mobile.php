@@ -13,8 +13,8 @@
 				echo '<a href="#" title="" id="log-out-header" onclick="signOut()">Log Out</a>';
                         }
                          else {
-                               echo '<a href="#" title="" onclick="signIn()">Sign In</a>';
-				echo '<a href="#" title="" onclick="toQNA()">Sign Up</a>';
+                               echo '<a href="api/php/login.php" title="">Sign In</a>';
+				echo '<a href="api/php/questionaire.php" title="">Sign Up</a>';
                         }
                      ?>
 		</div>
