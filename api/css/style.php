@@ -85,10 +85,6 @@ overflow-x: hidden;
 img {
     max-width: 100%;
 }
-a {
-    color:darkgreen;
-    font-family: "Lora";
-}
 
 h1{
    font-size: 64px;
@@ -1529,6 +1525,8 @@ q {
 
 .bold{
   font-weight: bold;
+  text-decoration: none;
+  font-size: 18px;
 }
 .h1style {
   margin: 0;
