@@ -57,7 +57,7 @@
   </select>
     <div class="row">
 <div class="buttonholder">
- <a href="api/php/Searchpage.php" class="nextbn">Search Now</a>
+ <a href="#" class="nextbn" onclick="signInNew()">Search Now</a>
 </div>
 
 </div>
