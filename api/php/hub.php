@@ -73,8 +73,8 @@
 		<h2 class="heading3">Looking for study buddies</h2>
 		<div class="nearyou">
 		<div class="card">
-			  <img src="api/images/student2.jpg" alt="John" style="width:100%">
-			  <h3 class="studentname">Student Name</h3>
+			  <img src="api/images/student1.jpg" alt="John" style="width:100%">
+			  <h3 class="studentname">Poppy Lewis</h3>
 			   <div class="cardcontent">
 			  <p class="title">@ Informatics</p>
 			  <p>Calculus 1 course</p>
@@ -88,8 +88,8 @@
 		</div>
 
 		<div class="card">
-			  <img src="api/images/student1.jpg" alt="John" style="width:100%">
-			  <h3 class="studentname">Student Name</h3>
+			  <img src="api/images/student2.jpg" alt="John" style="width:100%">
+			  <h3 class="studentname">Olive Williams</h3>
 			   <div class="cardcontent">
 			  <p class="title">@ Computer Science</p>
 			  <p>Mobile Computing course</p>
@@ -104,9 +104,9 @@
 
 		<div class="card">
 			  <img src="api/images/student4.jpg" alt="John" style="width:100%">
-			  <h3 class="studentname">Student Name</h3>
+			  <h3 class="studentname">Ella Thomas</h3>
 			   <div class="cardcontent">
-			  <p class="title">@ Cybersecurity</p>
+			  <p class="title">@ Computer Science</p>
 			  <p>Networking and Security course</p>
 			  <div style="margin: 24px 0;">
 			    <a href="#"><i class="fa fa-dribbble"></i></a> 
