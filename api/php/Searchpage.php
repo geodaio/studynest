@@ -30,15 +30,15 @@
          <img class="imageprofile" src="images/profile1.png" alt="Avatar" style="height:72px">
          <div class="rightfloat">
         <div class="textright">
-        <p class="bold"><span>Vijaya R</span><br> </p>
+        <a href="profile.html" class="bold"><span>Vijaya R</span></a>
         <p>@ Informatics</p></div>
         <div class="something99">
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam non libero interdum, fermentum odio vitae.</p>
        </div>
-       <p><b>Course:</b> Intro to Psychology</p>
+       <p><b>Course:</b> Intro to Web dev</p>
        <p><b>Knowledge:</b> Expert</p>
-        <p><b>Language:</b> Expert</p></div>
-        <a href="profile.html" class="testingsome2 w3r">Message</a>
+        <p><b>Language:</b> Exglish</p></div>
+        <a href="messages.html" class="testingsome2 w3r">Message</a>
         </div></div>
 
      <div class="rightnow row">
@@ -46,13 +46,13 @@
         <img class="imageprofile" src="images/profile1.png" alt="Avatar" style="height:72px">
         <div class="rightfloat">
              <div class="textright">
-        <p class="bold"><span>Vijaya R</span><br> </p>
+        <p class="bold"><span>Emily Smith</span><br> </p>
         <p>@ Informatics</p></div>
         <div class="something99">
-        <p>John Doe saved us from a web disaster.</p></div>
-        <p><b>Course:</b> Intro to Psychology</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam non libero interdum, fermentum odio vitae.</p></div>
+        <p><b>Course:</b> Intro to Web dev</p>
         <p><b>Knowledge:</b> Expert</p>
-        <p><b>Language:</b> Expert</p></div>
+        <p><b>Language:</b> English</p></div>
         <button class="testingsome">Message</button>            
         </div></div>
 
@@ -61,12 +61,13 @@
         <img class="imageprofile" src="images/profile1.png" alt="Avatar" style="height:72px">
         <div class="rightfloat">
              <div class="textright">
-        <p><span>Chris Fox.</span><br> @ Informatics</p></div>
+       <p class="bold"><span>Lily Johnson </span><br></p>
+            <p>@ Informatics</p></div>
         <div class="something99">
-        <p>John Doe saved us from a web disaster.</p></div>
-            <p><b>Course:</b> Intro to Psychology</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam non libero interdum, fermentum odio vitae.</p></div>
+            <p><b>Course:</b> Intro to Web dev</p>
             <p><b>Knowledge:</b> Expert</p>
-            <p><b>Language:</b> Expert</p></div>
+            <p><b>Language:</b> English, Spanish</p></div>
         <button class="testingsome">Message</button>
         </div></div>
 
@@ -75,12 +76,12 @@
         <img src="images/profile1.png" alt="Avatar" style="height:72px">
         <div class="rightfloat">
              <div class="textright">
-        <p><span>Chris Fox.</span><br> @ Informatics</p></div>
+        <p class="bold"><span>Mia Davies</span></p></p>@ Computer Science</p></div>
         <div class="something99">
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam non libero interdum,</p></div>
-        <p><b>Course:</b> Intro to Psychology</p>
+        <p><b>Course:</b> Intro to Web dev</p>
         <p><b>Knowledge:</b> Expert</p>
-        <p><b>Language:</b> Expert</p>
+        <p><b>Language:</b> English</p>
         </div>
         <button class="testingsome">Message</button>
         </div></div>
@@ -90,12 +91,12 @@
         <div class="rightfloat">
 
              <div class="textright">
-        <p><span>Chris Fox.</span><br> @ Informatics</p></div>
+        <p class="bold"><span>Olivia Williams</span><br></p><p>@ Computer Science</p></div>
         <div class="something99">
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam non libero interdum,</p></div>
-        <p><b>Course:</b> Intro to Psychology</p>
+        <p><b>Course:</b> Intro to Web dev</p>
         <p><b>Knowledge:</b> Expert</p>
-        <p><b>Language:</b> Expert</p>
+        <p><b>Language:</b> English, Chinese</p>
         </div>
         <button class="testingsome">Message</button>
         </div></div>
@@ -105,12 +106,12 @@
         <div class="rightfloat">
 
              <div class="textright">
-        <p><span>Chris Fox.</span><br> @ Informatics</p></div>
+        <p class="bold"><span>Ella Thomas</span><br></p><p>@ Computer Science</p></div>
         <div class="something99">
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam non libero interdum,</p></div>
-        <p><b>Course:</b> Intro to Psychology</p>
+        <p><b>Course:</b> Intro to Web dev</p>
         <p><b>Knowledge:</b> Expert</p>
-        <p><b>Language:</b> Expert</p>
+        <p><b>Language:</b> English</p>
         </div>
         <button class="testingsome">Message</button>
         </div></div>
