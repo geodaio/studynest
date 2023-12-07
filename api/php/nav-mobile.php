@@ -13,9 +13,7 @@
 				echo '<a href="#" title="" id="log-out-header" onclick="signOut()">Log Out</a>';
                         }
                          else {
-				echo '<div class="navbar-links">';
                                 include($_SERVER['DOCUMENT_ROOT'] . "/api/php/nav-out.php");
-				echo '</div>';
                         }
                      ?>
 		</div>
