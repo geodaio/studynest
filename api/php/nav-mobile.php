@@ -13,7 +13,8 @@
 				echo '<a href="#" title="" id="log-out-header" onclick="signOut()">Log Out</a>';
                         }
                          else {
-                                include($_SERVER['DOCUMENT_ROOT'] . "/api/php/nav-out.php");
+                               echo '<a href="#" title="" onclick="signIn()">Sign In</a>';
+				echo '<a href="#" title="" onclick="toQNA()">Sign Up</a>';
                         }
                      ?>
 		</div>
