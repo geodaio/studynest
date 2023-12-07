@@ -225,7 +225,7 @@
   <div class="personcontainer">
   <div class="userboard">
   <p class="rank"> 1</p>
-  <img src="api/images/student9.jpg"  alt="Avatar" style="width:56px">
+  <img src="api/images/profile1.png"  alt="Avatar" style="width:56px">
   <p class="name">Vijaya R</p>
   <p class="points">409 hours</p>
  </div>
@@ -235,7 +235,7 @@
   <div class="userboard">
   <p class="rank"> 2</p>
   <img src="api/images/student2.jpg"  alt="Avatar" style="width:56px">
-  <p class="name">Shah M</p>
+  <p class="name">Olive W/p>
   <p class="points">380 hours</p>
  </div>
 </div>
@@ -244,7 +244,7 @@
   <div class="userboard">
   <p class="rank"> 3</p>
   <img src="api/images/student5.jpg"  alt="Avatar" style="width:56px">
-  <p class="name">Chris F</p>
+  <p class="name">John D</p>
   <p class="points">320 hours</p>
  </div>
 </div>
@@ -253,7 +253,7 @@
   <div class="userboard">
   <p class="rank"> 4</p>
   <img src="api/images/student8.jpg"  alt="Avatar" style="width:56px">
-  <p class="name">Emily L</p>
+  <p class="name">Emily S</p>
   <p class="points">301 hours</p>
  </div>
 </div>
@@ -272,7 +272,7 @@
   </div>
   <div class="flex-item-right">
   	<div class="leadercontainer">
-  <img src="api/images/student9.jpg" alt="Avatar" style="width:136px" class="image1rank">
+  <img src="api/images/profile1.png" alt="Avatar" style="width:136px" class="image1rank">
   <div class="rank1">
   <p><span>Vijaya R</span></p>
   <p>Rank 1</p>
