@@ -487,6 +487,14 @@ width:100%;
 /* Homepage*/
 /*Abi Code */
 
+#notification-bell {
+  display: flex;
+  position: absolute;
+  max-width: 100%;
+  max-height: 100%;
+  float: right;
+  top: 2.8%;
+}
 #header-logo, #header-logo2{
   max-width:48%;
 }
