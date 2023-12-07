@@ -2998,7 +2998,6 @@ width: 62%;
 }
 
 
-
 @media screen and (min-width:480px) and (max-width:900px){
    #body #header-logo{max-width:2%}.toggle-button {display: flex}.signin,.signup{display:none }
 .navbar-links {display: none;width: 100%;}
@@ -3038,7 +3037,7 @@ width: 62%;
   display: none;
 }
 .dropdown-button{
-  margin-left: 0;
+  margin-left: 40x;
 }
   .header-right{width:100%}
   .navbar-links ul {width: 100%;flex-direction: column;}
@@ -3249,15 +3248,6 @@ cursor: pointer;
   padding: 0% 4% 0% 4%;
 }
 .dropdown{display: none;}
-}
-
-#home-quote{font-size:22px}
-
-}
-
-@media screen and (max-width: 900px){
-   
-
 .flexboxprofile{
   flex-direction: column;
     background-color:#eae9e1;
@@ -3287,7 +3277,6 @@ cursor: pointer;
   }
 
   .profile-img img {
-    border: 2px solid black;
     position: relative;
     height: 240px;
     width: 240px;
@@ -3333,7 +3322,7 @@ cursor: pointer;
 #profile-section-about{
   width:94%;
   float:left;
-  background-color:#FEFCF8;
+  background-color:orange;
   margin:5% auto auto auto;
   border-radius:25px;
 }
@@ -3396,19 +3385,24 @@ cursor: pointer;
 }
   .buttonsarea{
       display:flex;
-    align-items:center;
+    align-itemst:center;
     justify-content:center }
 #Useraddress, #Twitteruser,#Instagramlink{
   float:left;
   margin-top:24px;
   margin-bottom:24px;
-  margin:auto;
+  margint:auto;
 text-align:center}
 
 .profilepage p{
   font-size: 16px;
 }
 }
+
+#home-quote{font-size:22px}
+
+}
+
 
 @media screen and (min-width:320px) and (max-width:480px){
  #body #header-logo{max-width:2%}.toggle-button {display: flex}.signin,.signup{display:none }
@@ -3455,7 +3449,7 @@ margin:0px;
   display: none;
 }
 .dropdown-button{
-  margin-left: 0;
+  margin-left: 40x;
 }
   .header-right{width:100%}
   .navbar-links ul {width: 100%;flex-direction: column;}
@@ -3819,13 +3813,13 @@ cursor: pointer;
 }
   .buttonsarea{
       display:flex;
-    align-items:center;
+    align-itemst:center;
     justify-content:center }
 #Useraddress, #Twitteruser,#Instagramlink{
   float:left;
   margin-top:24px;
   margin-bottom:24px;
-  margin:auto;
+  margint:auto;
 text-align:center}
 
  #Useraddress,#Twitteruser{
@@ -3938,5 +3932,6 @@ margin:0px;
   font-family: "Bree Serif", sans-serif;
   display: flex;
   justify-content: center;
-  margin: 20px auto}
+  margin: 20px auto;
+}
 }
