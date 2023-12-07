@@ -7,7 +7,11 @@
                     <a href="api/php/about-us.php">About Us</a>
 	        <?php
                        	 if (isset($_COOKIE['loggedIn']) && $_COOKIE['loggedIn'] === 'true'){
-                                include($_SERVER['DOCUMENT_ROOT'] . "/api/php/nav-in.php");
+                                echo '<a href="#" id="notification-bell"><i class="fa-regular fa-bell"></i></a>';
+				echo '<a href="api/php/profile.php" title="" id="profile-drop-header">Profile</a>';
+				echo '<a href="api/php/messages.php" title="" id="messages-header">Messages</a>';
+				echo '<a href="api/php/settings.php" title="" id="settings-header">Settings</a>';
+				echo '<a href="#" title="" id="log-out-header" onclick="signOut()">Log Out</a>';
                         }
                          else {
                                 include($_SERVER['DOCUMENT_ROOT'] . "/api/php/nav-out.php");
