@@ -11,7 +11,9 @@
                                         echo '</div>';
                                 }
                                 else {
+                                        echo '<div class="navbar-links">';
                                         include($_SERVER['DOCUMENT_ROOT'] . "/api/php/nav-out.php");
+                                        echo '</div>';
                                 }
                         ?>
                 </div>
