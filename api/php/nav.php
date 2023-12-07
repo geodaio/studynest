@@ -17,5 +17,6 @@
                                 }
                         ?>
                 </div>
+                <?php include($_SERVER['DOCUMENT_ROOT'] . "/api/php/nav-mobile.php"); ?>
         </nav>
 </header>
