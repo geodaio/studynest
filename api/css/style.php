@@ -35,13 +35,14 @@ iframe{
   .searchsubtitle{margin-bottom:0px}p{font-size:18px}.rightnow{margin-bottom:-10px}.usercardinfo p{margin-left:72px}mar .usercardinfo p span{font-weight:700}
   .rightnow .row img{float:left;border-radius:50%;margin-right:20px}.searching ::-webkit-scrollbar{width:10px}.searching ::-webkit-scrollbar-track{box-shadow:inset 0 0 5px grey;border-radius:10px;background:#adb299}.searching ::-webkit-scrollbar-thumb{background:#293730;border-radius:10px}
 
-  .cardcontainer{position:relative;overflow-y:none;border:1px solid #000;background-color:#fff;border-radius:10px;padding:16px;margin:16px 0}
+  .cardcontainer{position:relative;border:1px solid #000;background-color:#fff;border-radius:10px;padding:16px;margin:16px 0}
   .cardcontainer img{border:1px solid #000;float:left;margin-top:10px;margin-left:10px;margin-right:20px;border-radius:50%}.textright{padding-bottom:10px;}.rightfloat{float:left;width:80%;padding:16px 0}
 
-  .testingsome{text-decoration:none;position:absolute;top:6%;right:3%; border-radius: 5px;font-size: 16px;width:16%;padding:2%;text-align:center;background-color:#293730;border-width: 1px;border-color: #293730;margin:auto;border-style: solid;color: #FEFCF8;cursor: pointer;}
+    .testingsome{text-decoration:none;position:absolute;top:6%;right:3%; border-radius: 5px;font-size: 16px;width:16%;padding:2%;text-align:center;background-color:#293730;border-width: 1px;border-color: #293730;margin:auto;border-style: solid;color: #FEFCF8;cursor: pointer;}
 .testingsome2{text-decoration:none;position:absolute;top:6%;right:3%; border-radius: 5px;font-size: 16px;width:16%;padding:2%;text-align:center;background-color:#293730;border-width: 1px;border-color: #293730;margin:auto;border-style: solid;color: #FEFCF8;cursor: pointer;
 
-}
+}.testingsome:hover,.testingsome2:hover{background-color: #5B6C3A}
+
 
 
   .something99{margin-bottom:10px}@media screen and (min-width:1020px){.something{margin-bottom:-20px}.sideleft{float:left;line-height:20px;padding-bottom:8px; margin-top: 10px}}@media screen and (min-width:825px) and (max-width:1020px){.something{margin-bottom:-10px}.sideleft{float:left;line-height:20px;padding-bottom:8px}.lefthub{padding:10px 30px 10px 20px;flex:32}}
@@ -49,9 +50,9 @@ iframe{
   @media screen and (min-width:611px) and (max-width:825px){.rightloat,.searchcontainer,.searchcontent{display:inline;}p{font-size:18px}.lefthub{padding:24px 28px;flex:48}.rightloat{margin:auto;float:none}.sideright{margin-bottom:0}.something{margin-bottom:-10px} .cardcontainer{margin-top:20px}}
 
   @media screen and (max-width:611px){.cardcontainer img,.rightfloat{margin:auto; margin-bottom:8px;float:none;display:block}.rightfloat,.searchcontainer,.searchcontent{display:inline;}.lefthub{padding:10px 20px;flex:15}.sideright{margin-top:0}.something{margin-bottom:-10px}.cardcontainer{text-align:center;margin-top:20px}
-    .righthub{display: none;}.something99{margin-bottom:px}
+    .righthub{display: none;}
     .testingsome{position:relative;margin-top:16px;right:0;width:50%;text-align:center;background:#293730;color:#fff;padding:12px 20px}
-      .cardcontainer{position:relative;overflow-y:none;border:1px solid #000;background-color:#fff;border-radius:10px;padding:32px;margin:16px 0}
+      .cardcontainer{position:relative;border:1px solid #000;background-color:#fff;border-radius:10px;padding:32px;margin:16px 0}
     .testingsome2{position:relative; top:90%;right:0%;padding:4% 8% 4% 8%;}
       .w3r{top: 40%}
   }
@@ -255,7 +256,9 @@ border-style: solid;
 color: #FEFCF8;
 cursor: pointer
 }
-
+.btn2:hover{
+  background-color:#5B6C3A;
+}
 
 .btn3{
   margin: 0 auto;
@@ -272,6 +275,9 @@ border-style: solid;
 color: #FEFCF8;
 cursor: pointer;
 }
+.btn3:hover{
+  background-color:#5B6C3A;
+}
 
 #get-started, #get-started1, #get-started2, #get-started3{
 border-radius: 5px;
@@ -285,6 +291,9 @@ border-style: solid;
 color: #FEFCF8;
 cursor: pointer;
 }
+ #get-started1:hover, #get-started2:hover, #get-started3:hover{
+  background-color:#5B6C3A ;
+ }
 
 .studyhub #form {
   overflow-y: hidden;
@@ -726,6 +735,7 @@ width:100%;
 }
 
 .profile-img img {
+  border: 2px solid #293730;
   border-radius: 50%;
   height: 248px;
   width: 248px;
@@ -745,10 +755,9 @@ width:100%;
 }
 
 .profile-nav-info h3 {
-  font-variant: small-caps;
   font-size: 2rem;
-  font-family: sans-serif;
-  font-weight: bold;
+ font-weight: bold;
+ font-family:'Nimbus Sans L',sans-serif;
 }
 
 .profile-nav-info .address {
@@ -1050,13 +1059,13 @@ font-weight:bold;
 }
 #user-name{
   font-size:3.75em;
-  font-family:"Lora", serif;
+ font-family:'Nimbus Sans L',sans-serif;
   margin-bottom:0%;
   margin-top:10%;
 }
 #username{
   font-size:1.75em;
-  font-family:"Lora", serif;
+  font-family:'Nimbus Sans L',sans-serif;
 }
 #user-description{
   width:90%;
@@ -1072,6 +1081,9 @@ font-weight:bold;
 #message-user, #add-buddy{
   margin-left:4%; 
 }
+#message-user:hover{
+  background-color:#eae9e1}
+
 #add-buddy{
   width:90%; 
   margin: 0 auto;
@@ -1084,6 +1096,9 @@ font-weight:bold;
   border-color:#293730;
   border-style:solid;
   color:#FEFCF8;
+}
+#join-newsletter:hover{
+  background-color:#5B6C3A;
 }
 .dottedcircle{
   height: 0;
@@ -1698,6 +1713,8 @@ width: 10%;
   position: absolute;
   right: 17%;
   text-decoration: none;
+}.nextbn:hover{
+  background-color: #5B6C3A;
 }
 
 .querylabel{
@@ -1887,7 +1904,7 @@ float:left;
   max-width:100%;
   width:40%;
   max-height:100%;
-  height:70%;S
+  height:70%;
   position:absolute;
   left:43%;
   top:27%;
@@ -3012,7 +3029,7 @@ width: 62%;
   display: none;
 }
 .dropdown-button{
-  margin-left: 40x;
+  margin-left: 0;
 }
   .header-right{width:100%}
   .navbar-links ul {width: 100%;flex-direction: column;}
@@ -3261,6 +3278,7 @@ cursor: pointer;
   }
 
   .profile-img img {
+    border: 2px solid black;
     position: relative;
     height: 240px;
     width: 240px;
@@ -3369,13 +3387,13 @@ cursor: pointer;
 }
   .buttonsarea{
       display:flex;
-    align-itemst:center;
+    align-items:center;
     justify-content:center }
 #Useraddress, #Twitteruser,#Instagramlink{
   float:left;
   margin-top:24px;
   margin-bottom:24px;
-  margint:auto;
+  margin:auto;
 text-align:center}
 
 .profilepage p{
@@ -3428,7 +3446,7 @@ margin:0px;
   display: none;
 }
 .dropdown-button{
-  margin-left: 40x;
+  margin-left: 0;
 }
   .header-right{width:100%}
   .navbar-links ul {width: 100%;flex-direction: column;}
@@ -3792,13 +3810,13 @@ cursor: pointer;
 }
   .buttonsarea{
       display:flex;
-    align-itemst:center;
+    align-items:center;
     justify-content:center }
 #Useraddress, #Twitteruser,#Instagramlink{
   float:left;
   margin-top:24px;
   margin-bottom:24px;
-  margint:auto;
+  margin:auto;
 text-align:center}
 
  #Useraddress,#Twitteruser{
@@ -3911,6 +3929,5 @@ margin:0px;
   font-family: "Bree Serif", sans-serif;
   display: flex;
   justify-content: center;
-  margin: 20px auto;
-}
+  margin: 20px auto}
 }
