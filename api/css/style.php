@@ -755,14 +755,14 @@ width:100%;
 }
 
 .profile-nav-info h3 {
-  font-size: 2rem;
- font-weight: bold;
- font-family:'Nimbus Sans L',sans-serif;
+  margin-bottom: 8px;
+  font-size: 1.6rem;
+  font-weight: bold;
 }
 
 .profile-nav-info .address {
-  display: flex;
-  font-weight: bold;
+   display: flex;
+  font-weight: 500;
   color: #777;
 }
 .buttonsarea{
@@ -1084,6 +1084,8 @@ font-weight:bold;
 #message-user:hover{
   background-color:#eae9e1}
 
+#add-buddy{color: white;}
+#message-user,
 #add-buddy{
   width:90%; 
   margin: 0 auto;
@@ -1095,7 +1097,6 @@ font-weight:bold;
   border-width: 2px;
   border-color:#293730;
   border-style:solid;
-  color:#FEFCF8;
 }
 #join-newsletter:hover{
   background-color:#5B6C3A;
