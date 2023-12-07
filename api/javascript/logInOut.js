@@ -36,6 +36,12 @@ function signIn() {
 	window.location.assign("https://study-nest.vercel.app/");
 	console.log(document.cookie);
 }
+function signInNew() {
+	event.preventDefault();
+	storeCookies("loggedIn", "true");
+	window.location.assign("https://study-nest.vercel.app/api/php/Searchpage.php");
+	console.log(document.cookie);
+}
 function signOut() {
 	event.preventDefault();
 	storeCookies("loggedIn", "false");
