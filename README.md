@@ -9,7 +9,7 @@
 <ul>
   <li>UI Design of website</li>
   <li>HTML and CSS build</li>
-  <li>Responsiveness and effecrs (animations, hover etc)</li>
+  <li>Responsiveness and effects (animations, hover etc)</li>
 </ul>
 
 <p>Abigail</p>
