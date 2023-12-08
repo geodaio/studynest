@@ -1134,13 +1134,16 @@ padding:4%;
 
 #profile-section-sg{
   display:block;
+  overflow:auto;
 }
 #profile-section-sb{
   display:none;
+  overflow:auto;
 }
 #profile-section-ra{
   display:none;
   text-align: center;
+  overflow:auto;
 }
 #profile-section-about{
   float: left;
