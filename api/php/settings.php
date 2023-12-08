@@ -7,6 +7,12 @@
             include($_SERVER["DOCUMENT_ROOT"] . "/api/php/nav.php");
         ?>
         <div id="settings-block">
+            <section id="settings-switch">
+                <a onclick="toGen()">General</a>
+                <a onclick="toProf()">Profile</a>
+                <a onclick="toNotif()">Notifications</a>
+                <a onclick="toPriv()">Privacy</a>
+            </section>
             <section id="gen-settings">
                 <h2>General</h2>
                 <h3>Change Email</h3>
