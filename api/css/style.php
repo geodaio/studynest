@@ -3306,7 +3306,6 @@ cursor: pointer;
 #profile-section-about{
   width:94%;
   float:left;
-  background-color:orange;
   margin:5% auto auto auto;
   border-radius:25px;
 }
