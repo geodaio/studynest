@@ -10,7 +10,7 @@
                                         include($_SERVER['DOCUMENT_ROOT'] . "/api/php/nav-in.php");
                                         echo '</div>';
                                 }
-                                else {
+                                else if (?> document.getElementById("navbar-links").style.display === "none" <?php) {
                                         include($_SERVER['DOCUMENT_ROOT'] . "/api/php/nav-out.php");
                                 }
                         ?>
