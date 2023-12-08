@@ -1172,7 +1172,7 @@ padding:4%;
 
 #profile-section-sg, #profile-section-sb, #profile-section-ra{
   background-color:#FEFCF8;
-  height:inherit;
+  height:80%;
   width:100%;
   margin:auto;
   border-radius:inherit;
