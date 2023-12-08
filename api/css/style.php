@@ -3915,7 +3915,12 @@ margin:0px;
 #how-page {
  padding: 40px;
 }
-
 #text-titles {
  text-decoration: underline;
+}
+#gen-settings{
+ display:block;
+}
+#settings-block {
+
 }
