@@ -235,7 +235,7 @@
   <div class="userboard">
   <p class="rank"> 2</p>
   <img src="https://picsum.photos/64"  alt="Avatar" style="width:56px">
-  <p class="name">Olive W/p>
+  <p class="name">Olive W</p>
   <p class="points">380 hours</p>
  </div>
 </div>
