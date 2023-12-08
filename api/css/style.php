@@ -1198,12 +1198,10 @@ padding:4%;
 }
 
 .person{
-  height:35%;
-  padding-top:1%;
-  padding-left:5%;
-  text-align:left;
-  margin:auto;
-  position:relative;
+  display: flex;
+  flex-direction: row-reverse;
+  padding: 6%;
+  align-items: center;
 }
 .action_btn{
   width: 75%;
@@ -1211,8 +1209,9 @@ padding:4%;
     margin-top: -20px;
 }
 .person-text{
-  position:relative;
-  top:2%;
+  position: relative;
+  right: 35%;
+}
 }
 .person h3, h4, p{
   margin-top:0px;
@@ -1795,8 +1794,9 @@ select{
   font-size:90%;
 }*/
 .person-text{
-  position:relative;
-  top:2%;
+  position: relative;
+  right: 35%;
+}
 }
 .person h3, h4, p{
   margin-top:0px;
