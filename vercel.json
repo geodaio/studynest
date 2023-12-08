@@ -55,7 +55,7 @@
     { "src": "(.*)/service2.jpg(.*)", "dest": "api/images/service2.jpg" },
     { "src": "(.*)/service3.jpg(.*)", "dest": "api/images/service3.jpg" },
     { "src": "(.*)/student1.jpg(.*)", "dest": "api/images/student1.jpg" },
-    { "src": "(.*)/student2.jpg(.*)", "dest": "/api/images/student2.jpg" },
+    { "src": "(.*)/student2Test.jpg(.*)", "dest": "/api/images/student2Test.jpg" },
     { "src": "(.*)/student3.jpg(.*)", "dest": "api/images/student3.jpg" },
     { "src": "(.*)/student4.jpg(.*)", "dest": "api/images/student4.jpg" },
     { "src": "(.*)/student5.jpg(.*)", "dest": "api/images/student5.jpg" },
