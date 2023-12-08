@@ -9,7 +9,7 @@
             include($_SERVER["DOCUMENT_ROOT"] . "/api/php/nav.php");
         ?>
     <div id="how-text">
-        <h1>So, how does Study Nest Work?</h1>
+        <h1 id="text-titles">So, how does Study Nest Work?</h1>
         
         <h2>First, complete our Study Nest quiz.</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rutrum molestie ante, non porta neque hendrerit et. Aenean molestie consequat dolor ac pharetra. Nunc placerat libero at lacus volutpat eleifend. In sapien dolor, pretium eget luctus non, hendrerit nec diam. Fusce at ante eu dolor sollicitudin convallis in at erat.</p>
