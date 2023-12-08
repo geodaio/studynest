@@ -47,7 +47,7 @@
     { "src": "(.*)/indeximage.php(.*)", "dest": "api/images/indeximage.php" },
     { "src": "(.*)/indeximage2.php(.*)", "dest": "api/images/indeximage2.php" },
     { "src": "(.*)/may-gauthier-s3mR42Spras-unsplash.jpg(.*)", "dest": "api/images/may-gauthier-s3mR42Spras-unsplash.jpg.jpg" },
-    { "src": "(.*)/more.svg(.*)", "dest": "api/images/more.svg" },
+    { "src": "(.*)/more.php(.*)", "dest": "api/images/more.php" },
     { "src": "(.*)/notification_logo.php(.*)", "dest": "api/images/notification_logo.php" },
     { "src": "(.*)/profile.jpeg(.*)", "dest": "api/images/profile.jpeg" },
     { "src": "(.*)/profile.png(.*)", "dest": "api/images/profile.png" },
