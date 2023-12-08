@@ -31,7 +31,7 @@ iframe{
 
   .sideright{border-radius:5px;font-size:1em;width:104px;padding:1.5%;background-color:#FEFCF8;border:2px solid #293730;color:black;cursor:pointer}
 
-  .searchsubtitle{margin-bottom:0px}p{font-size:18px}.rightnow{margin-bottom:-10px}.usercardinfo p{margin-left:72px}mar .usercardinfo p span{font-weight:700}
+  .searchsubtitle{margin-bottom:0px}p{font-size:18px;}.rightnow{margin-bottom:-10px}.usercardinfo p{margin-left:72px}mar .usercardinfo p span{font-weight:700}
   .rightnow .row img{float:left;border-radius:50%;margin-right:20px}.searching ::-webkit-scrollbar{width:10px}.searching ::-webkit-scrollbar-track{box-shadow:inset 0 0 5px grey;border-radius:10px;background:#adb299}.searching ::-webkit-scrollbar-thumb{background:#293730;border-radius:10px}
 
   .cardcontainer{position:relative;border:1px solid #000;background-color:#fff;border-radius:10px;padding:16px;margin:16px 0}
@@ -1207,7 +1207,10 @@ padding:4%;
   display: flex;
   flex-direction: row-reverse;
   padding: 6%;
-  /*! align-items: center; */
+  align-items: center;
+  width: %;
+  position: relative;
+  left: 8%;
 }
 .action_btn{
   width: 75%;
@@ -1260,7 +1263,7 @@ padding:4%;
   border-radius:25px;
 }
 #uni, #locat, #join-profile, #person-contact-info{
-  margin-top: 2%;
+  margin: 2%;
 }
 #fast-facts{
   width:100%;
@@ -3015,6 +3018,10 @@ width: 62%;
   #login-sect {
     width:70%;
   }
+  #contact-profile-email {
+    position: relative;
+    left: -50px;
+  }
   .picturecards {
     width:100%;
     margin: auto;
@@ -3357,6 +3364,9 @@ width: 62%;
     margin: 7%;
     width: 7%;
     /*! font-size: 70%; */
+    /*! padding: ; */
+    float: right;
+    /*! align-items: end; */
   }
    #about-p-2 {
     height:50%;
@@ -3405,7 +3415,7 @@ width: 62%;
   }
   #profile-section-sb {
     font-size: 100%;
-    left:-10%;
+    /*! left:-10%; */
   }
   #fast-facts2 {
     flex-idrection:row;
@@ -3987,12 +3997,13 @@ margin:0px;
 @media screen and (max-width: 900px) {
   #profile-section-sb {
     font-size: 100%;
+    width: 90%;
   }
   #fast-facts2 {
     flex-direction:row;
-    
     width: 100%;
   }
 }
+
 
 
