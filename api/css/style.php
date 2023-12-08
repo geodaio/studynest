@@ -488,8 +488,9 @@ width:100%;
   position: absolute;
   max-width: 100%;
   max-height: 100%;
-  float: right;
-  top: 5%;
+  padding-top: 32px;
+  height: inherit;
+  width: inherit;
 }
 #header-logo, #header-logo2{
   max-width:48%;
