@@ -9,7 +9,6 @@
                        	 if (isset($_COOKIE['loggedIn']) && $_COOKIE['loggedIn'] === 'true'){
 				echo '<a href="api/php/profile.php" title="" id="profile-drop-header">Profile</a>';
 				echo '<a href="api/php/messages.php" title="" id="messages-header">Messages</a>';
-				echo '<a href="api/php/settings.php" title="" id="settings-header">Settings</a>';
 				echo '<a href="#" title="" id="log-out-header" onclick="signOut()">Log Out</a>';
                         }
                          else {
