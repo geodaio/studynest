@@ -34,6 +34,7 @@
     { "src": "(.*)/home.js", "dest": "/api/javascript/home.js" },
     { "src": "(.*)/logInOut.js", "dest": "/api/javascript/logInOut.js" },
     { "src": "(.*)/profile.js", "dest": "/api/javascript/profile.js" },
+    { "src": "(.*)/settings.js", "dest": "/api/javascript/settings.js" },
     { "src": "(.*)/studynest.js", "dest": "/api/javascript/studynest.js" },
     
     { "src": "(.*)/Ellipse.php(.*)", "dest": "/api/images/Ellipse.php" },
