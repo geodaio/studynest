@@ -2866,9 +2866,6 @@ width: 62%;
   right: 80%;
   bottom: 100%;
 }
-#go-away {
-  display:block;
-}
 .navbar-links li a {
       display: block;
     text-decoration: none;
