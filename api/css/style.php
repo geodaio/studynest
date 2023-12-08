@@ -945,6 +945,7 @@ font-weight:bold;
   display:flex;
   flex-direction:column;
   background-color: #FEFCF8;
+  overflow:auto;
 }
 #form-login{
   margin-bottom:10%;
