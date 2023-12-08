@@ -1145,7 +1145,7 @@ padding:4%;
 #profile-section-about{
   float: left;
   width:50%;
-  /*! height:560px; */
+  height:700px;
   background-color:#FEFCF8;
   padding:2%;
   margin:3%;
@@ -1159,6 +1159,7 @@ padding:4%;
   margin:3% 3% 0% 0;
   border-radius:25px;
   position:relative;
+  height: 700px;
 }
 #sg, #sb, #ra{
   background-color: #293730;
@@ -1167,7 +1168,7 @@ padding:4%;
 
 #profile-section-sg, #profile-section-sb, #profile-section-ra{
   background-color:#FEFCF8;
-  /*! height:85%; */
+  height:85%;
   width:100%;
   margin:auto;
   border-radius:inherit;
@@ -1192,10 +1193,10 @@ padding:4%;
   border-radius:0px;
 }
 .study-group{
-  display: flex;
-  flex-direction: row-reverse;
+  /*! display: flex; */
+  /*! flex-direction: row-reverse; */
   padding: 6%;
-  align-items: center;
+  /*! align-items: center; */
 }
 
 .person{
@@ -1246,7 +1247,7 @@ padding:4%;
 }
 #fast-facts2{
   width:75%;
-  height:70%;
+  height:65%;
   border-width: 1.5px;
   border-color:#293730;
   border-style:solid;
