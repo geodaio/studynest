@@ -1,6 +1,3 @@
-<?php
- header('Content-Type: text/css');
-?>
 
 /*Kat code*/
 /*Minfied Css for Search results page*/
@@ -686,8 +683,8 @@ width:100%;
 }
 .flexbox-column {
   height:100%;
-  width:100%;
-  justify-content:space-around;
+  /*! width:100%; */
+  /*! justify-content:space-around; */
   display:flex;
   flex-direction:column;
 }
@@ -1129,7 +1126,7 @@ padding:4%;
   background:#eae9e1;
   display: inline-block;
   width:100%;
-  height: 670px;
+  height: 100%;
   margin:auto;
 }
 
@@ -1145,7 +1142,7 @@ padding:4%;
 #profile-section-about{
   float: left;
   width:50%;
-  height:560px;
+  /*! height:560px; */
   background-color:#FEFCF8;
   padding:2%;
   margin:3%;
@@ -1154,7 +1151,7 @@ padding:4%;
 #study-group-buddy-activity{
   float: right;
   width:50%;
-  height:560px;
+  /*! height:560px; */
   background-color:#FEFCF8;
   margin:3% 3% 0% 0;
   border-radius:25px;
@@ -1167,8 +1164,8 @@ padding:4%;
 
 #profile-section-sg, #profile-section-sb, #profile-section-ra{
   background-color:#FEFCF8;
-  height:85%;
-  width:96%;
+  /*! height:85%; */
+  width:100%;
   margin:auto;
   border-radius:inherit;
   position:absolute;
@@ -1222,10 +1219,10 @@ padding:4%;
   max-width:100%;
   max-height:100px;
   height: 300px;
-  width: 20%;
-  margin-left:70%;
-  top:-1%;
-  position: absolute;
+  /*! width: 20%; */
+  /*! margin-left:70%; */
+  /*! top:-1%; */
+  /*! position: absolute; */
   border-radius: 100%;
 }
 #about{
@@ -1246,7 +1243,7 @@ padding:4%;
 }
 #fast-facts2{
   width:75%;
-  height:56%;
+  height:70%;
   border-width: 1.5px;
   border-color:#293730;
   border-style:solid;
@@ -1781,14 +1778,14 @@ select{
 }
 
 .person{
-  border:1.5px solid black;
-  border-radius:5px;
-  width:100%;
-  padding-top:1%;
-  padding-left:5%;
-  text-align:left;
-  margin:auto;
-  position:relative;
+  /*! border:1.5px solid black; */
+  /*! border-radius:5px; */
+  /*! width:100%; */
+  /*! padding-top:1%; */
+  /*! padding-left:5%; */
+  /*! text-align:left; */
+  /*! margin:auto; */
+  /*! position:relative; */
 }
 /*#message-nav .person {
   margin-top:3%;
