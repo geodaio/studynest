@@ -17,7 +17,7 @@
     <div class= something>
       <div class="subsection">
         <h2 class="searchsubtitle">Possible Study Buddies</h2>
-         <p class="sideleft">6 Search results in <b>University at Albany </b> within <b> Informatics Major </b>with some <b>familarity.</b></p></div>
+         <p class="sideleft">6 Search results </b>studies<b> Intro to web dev</b>with some <b>Expertise.</b></p></div>
          <div class="filtersearch">
              <button class="sideright">Major</button>
             <button class="sideright">Course</button>
