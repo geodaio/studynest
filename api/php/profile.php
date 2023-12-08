@@ -82,6 +82,40 @@
 						<h3 class="study-group-name">Study Group</h3>
                             			<p class="study-group-description">Study Group Description Placeholder</p>
                         		</div>
+					<div class="study-group">
+                            			<!--START KAT CODE-->
+                            			<div class="avatars">
+                                			<span class="avatar">
+                                    				<img src="https://picsum.photos/70" alt="temp">
+                                			</span>
+                                			<span class="avatar">
+                                    				<img src="https://picsum.photos/70" alt="temp">
+                                			</span>
+                                			<span class="avatar">
+                                    				<img src="https://picsum.photos/70" alt="temp">
+                                			</span>
+                            			</div>
+                            			<!--END KAT CODE-->
+						<h3 class="study-group-name">Study Group</h3>
+                            			<p class="study-group-description">Study Group Description Placeholder</p>
+                        		</div>
+					<div class="study-group">
+                            			<!--START KAT CODE-->
+                            			<div class="avatars">
+                                			<span class="avatar">
+                                    				<img src="https://picsum.photos/70" alt="temp">
+                                			</span>
+                                			<span class="avatar">
+                                    				<img src="https://picsum.photos/70" alt="temp">
+                                			</span>
+                                			<span class="avatar">
+                                    				<img src="https://picsum.photos/70" alt="temp">
+                                			</span>
+                            			</div>
+                            			<!--END KAT CODE-->
+						<h3 class="study-group-name">Study Group</h3>
+                            			<p class="study-group-description">Study Group Description Placeholder</p>
+                        		</div>
                         		<div class="study-group">
                             			<!--START KAT CODE-->
                             			<div class="avatars">
