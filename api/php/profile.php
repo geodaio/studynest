@@ -79,10 +79,8 @@
                                 			</span>
                             			</div>
                             			<!--END KAT CODE-->
-						<div class="person-text">
-							<h3 class="study-group-name">Study Group</h3>
-                            				<p class="study-group-description">Study Group Description Placeholder</p>
-						</div>
+						<h3 class="study-group-name">Study Group</h3>
+                            			<p class="study-group-description">Study Group Description Placeholder</p>
                         		</div>
                         		<div class="study-group">
                             			<!--START KAT CODE-->
@@ -98,10 +96,8 @@
                                 			</span>
                             			</div>
                             			<!--END KAT CODE-->
-                            			<div class="person-text">
-							<h3 class="study-group-name">Study Group</h3>
-                            				<p class="study-group-description">Study Group Description Placeholder</p>
-						</div>
+						<h3 class="study-group-name">Study Group</h3>
+                            			<p class="study-group-description">Study Group Description Placeholder</p>
                         		</div>
                         		<div class="study-group">
                             			<!--START KAT CODE-->
@@ -117,10 +113,8 @@
                                 			</span>
                             			</div>
                            			<!--END KAT CODE-->
-                            			<div class="person-text">
-							<h3 class="study-group-name">Study Group</h3>
-                            				<p class="study-group-description">Study Group Description Placeholder</p>
-						</div>
+						<h3 class="study-group-name">Study Group</h3>
+                            			<p class="study-group-description">Study Group Description Placeholder</p>
                         		</div>
                     		</div>  
                     		<div id="profile-section-sb">
