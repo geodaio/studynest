@@ -1193,8 +1193,10 @@ padding:4%;
   border-radius:0px;
 }
 .study-group{
-  padding-left:5%;
-  height:35%;
+  display: flex;
+  flex-direction: row-reverse;
+  padding: 6%;
+  align-items: center;
 }
 
 .person{
