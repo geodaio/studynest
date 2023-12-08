@@ -3910,5 +3910,7 @@ margin:0px;
 }
 }
 
-
+#how-page {
+ padding: 40px;
+}
 
