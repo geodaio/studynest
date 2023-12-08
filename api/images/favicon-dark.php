@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-
 <?php
   header('Content-Type: image/svg+xml');
 ?>
+
+<?xml version="1.0" encoding="utf-8"?>
 
 <svg width="33" height="33" viewBox="0 0 33 33" fill="none" xmlns="http://www.w3.org/2000/svg">
   <mask id="mask0_66_139" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-3" y="-4" width="39" height="41">
