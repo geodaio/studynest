@@ -3916,7 +3916,7 @@ margin:0px;
  padding: 40px;
 }
 #text-titles {
- text-decoration: underline;
+
 }
 #gen-settings{
  display:block;
