@@ -959,6 +959,16 @@ font-weight:bold;
 #button-log{
   flex-direction:row;
   height:100%;
+  align-items: flex-end;
+  display: flex;
+  align-self: center;
+  padding: 10%;
+}
+#back-to-home {
+  position: relative;
+  display: flex;
+  flex-direction: row-reverse;
+  top: 2%;
 }
 #login-button{
   background-color:#293730;
@@ -3898,3 +3908,6 @@ margin:0px;
   margin: 20px auto;
 }
 }
+
+
+
