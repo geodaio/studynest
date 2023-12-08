@@ -937,6 +937,14 @@ font-weight:bold;
 }
 #body-login{
   background-color: #ADB499;
+  background: linear-gradient(182deg, #488455, #dad299);
+    background-size: auto;
+  background-size: 400% 400%;
+  -webkit-animation: AnimationName 15s ease infinite;
+  -moz-animation: AnimationName 15s ease infinite;
+  animation: AnimationName 15s ease infinite;
+  width: 100%;
+  padding: 20px 0;
 }
 #login-sect{
   margin:auto;
