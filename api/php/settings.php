@@ -13,6 +13,7 @@
                 <a onclick="toNotif()">Notifications</a>
                 <a onclick="toPriv()">Privacy</a>
             </section>
+            
             <section id="gen-settings">
                 <h2>General</h2>
                 <h3>Change Email</h3>
