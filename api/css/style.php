@@ -382,7 +382,7 @@ footer {
   width: 100%;
   bottom: 0;
   left: 0;
-  height: 100%;
+  height: 20%;
 }
 
 footer .content{
