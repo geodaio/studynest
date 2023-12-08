@@ -1172,7 +1172,7 @@ padding:4%;
 
 #profile-section-sg, #profile-section-sb, #profile-section-ra{
   background-color:#FEFCF8;
-  height:85%;
+  height:inherit;
   width:100%;
   margin:auto;
   border-radius:inherit;
@@ -3316,10 +3316,11 @@ cursor: pointer;
   float:left;
   margin:5% auto auto auto;
   border-radius:25px;
+  height: 50%;
 }
 #study-group-buddy-activity{
   width:94%;
-  height:560px;
+  height:100%;
   background-color:#FEFCF8;
   margin:5% auto 5% auto;
   border-radius:25px;
@@ -3930,9 +3931,6 @@ margin:0px;
 #how-page {
  padding: 40px;
 }
-#text-titles {
-
-}
 #gen-settings{
  display:block;
 }
@@ -3944,7 +3942,4 @@ margin:0px;
 }
 #priv-settings {
  display:none;
-}
-#settings-block {
-
 }
