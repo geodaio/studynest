@@ -8,10 +8,10 @@
         ?>
         <div id="settings-block">
             <section id="settings-switch">
-                <a onclick="toGen()">General</a>
-                <a onclick="toProf()">Profile</a>
-                <a onclick="toNotif()">Notifications</a>
-                <a onclick="toPriv()">Privacy</a>
+                <button type="button" onclick="toGen()">General</button>
+                <button type="button"  onclick="toProf()">Profile</button>
+                <button type="button"  onclick="toNotif()">Notifications</button>
+                <button type="button"  onclick="toPriv()">Privacy</button>
             </section>
             
             <section id="gen-settings">
