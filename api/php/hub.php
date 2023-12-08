@@ -261,7 +261,7 @@
 <div class="personcontainer">
   <div class="userboard">
   <p class="rank"> 5</p>
-  <img src="api/images/student3.jpg"  alt="Avatar" style="width:56px">
+  <img src={require('api/images/student3.jpg')}  alt="Avatar" style="width:56px">
   <p class="name">Isak G</p>
   <p class="points">290 hours</p>
  </div>
