@@ -42,25 +42,25 @@
                  <div class="row scrolling_text">
                         <div class="runningtext">
                         <span>Study Together</span>
-                        <img src="api/images/unicon.svg" alt="Graduation Cap">
+                        <img src="api/images/unicon.php" alt="Graduation Cap">
                         <span>Study Together</span>
-                         <img src="api/images/unicon.svg" alt="Graduation Cap">
+                        <img src="api/images/unicon.php" alt="Graduation Cap">
                         <span>Study Together</span>
-                         <img src="api/images/unicon.svg" alt="Graduation Cap">
+                        <img src="api/images/unicon.php" alt="Graduation Cap">
                         <span>Study Together</span>
-                         <img src="api/images/unicon.svg" alt="Graduation Cap">
+                        <img src="api/images/unicon.php" alt="Graduation Cap">
                         <span>  </span>
                         </div>
                         <div class="runningtext">
                          <span></span>
                         <span>Study Together</span>
-                         <img src="api/images/unicon.svg" alt="Graduation Cap">
+                        <img src="api/images/unicon.php" alt="Graduation Cap">
                         <span>Study Together</span>
-                         <img src="api/images/unicon.svg" alt="Graduation Cap">
+                        <img src="api/images/unicon.php" alt="Graduation Cap">
                         <span>Study Together</span>
-                         <img src="api/images/unicon.svg" alt="Graduation Cap">
+                        <img src="api/images/unicon.php" alt="Graduation Cap">
                         <span>Study Together</span>
-                         <img src="api/images/unicon.svg" alt="Graduation Cap">
+                        <img src="api/images/unicon.php" alt="Graduation Cap">
                         </div>
                     </div>
                     </div>
