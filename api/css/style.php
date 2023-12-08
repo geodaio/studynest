@@ -933,7 +933,6 @@ font-weight:bold;
         color: unset;
         height: unset;
         width: unset;
-        padding: unset;
 }
 #body-login{
   background-color: #ADB499;
@@ -959,6 +958,7 @@ font-weight:bold;
 }
 #form-login{
   margin-bottom:10%;
+  padding:10%;
 }
 #leave-login{
   width:6%;
