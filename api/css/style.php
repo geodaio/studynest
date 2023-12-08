@@ -489,7 +489,7 @@ width:100%;
   max-width: 100%;
   max-height: 100%;
   float: right;
-  top: 2.8%;
+  top: 5%;
 }
 #header-logo, #header-logo2{
   max-width:48%;
