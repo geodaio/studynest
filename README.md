@@ -1,7 +1,7 @@
 # Study Nest
 ## Intermediate Interactive Design (CINF 362, Section 8441)
 ### :]
-##Our written doc: insert url here
+##Our written doc: Katherine: https://docs.google.com/document/d/1VyUX63siLMDt4UudVQqvKl-OLP5dELM2JehnvbrD__o/edit?usp=sharing
 
 <p>Division of Labor</p>
 
