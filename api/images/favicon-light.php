@@ -2,7 +2,7 @@
   header('Content-Type: image/svg+xml');
 ?>
 
-<?xml version="1.0" encoding="utf-8"?>
+
 <svg width="33" height="33" viewBox="0 0 33 33" fill="none" xmlns="http://www.w3.org/2000/svg">
   <mask id="mask0_66_139" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-3" y="-4" width="39" height="41">
     <path d="M-2.12756 0.700562L32.2013 -3.2793L35.6154 32.4818L1.28653 36.4617L-2.12756 0.700562Z" fill="white"/>
