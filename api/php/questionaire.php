@@ -46,7 +46,8 @@
   
   <label class="querylabel" for="Timezone">Timezone</label>
   <select id="Timezone" name="Timezone">
-    <option value="HST"selected>Hawaii Standard Time</option>
+    <option value="NONE"selected>None</option>
+      <option value="HST">Hawaii Standard Time</option>
      <option value="HDT">Hawaii-Aleutian Daylight Time</option>
     <option value="AKDT">Alaska Daylight Time</option>
     <option value="PDT">Pacfific Daylight Time</option>
