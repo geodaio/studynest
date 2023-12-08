@@ -1840,7 +1840,9 @@ select{
   height: 83.5px;
 
 }
-.person-bio{float:left; position: relative;display: block;}
+.person-bio{float:left; position: relative;display: block;
+  top:-50%;
+}
 .header-chat .person-bio{
   margin:-6px 4px 0 20px
 }
