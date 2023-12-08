@@ -22,7 +22,8 @@
 
  <label class="querylabel" for="prep">Level of prep</label>
   <select id="prep" name="prep">
-    <option value="Expert"selected>Expert</option>
+    <option value="None"selected>None</option>
+    <option value="Expert">Expert</option>
     <option value="Knowledgable">Knowledgable</option>
     <option value="Familiarity">Some Familiarity</option>
     <option value="Lost">Lost</option>
@@ -31,11 +32,11 @@
 
   <label class="querylabel"for="Language"> Preferred Language</label>
   <select id="Language" name="Language">
-    <option value="Knowledgable" selected>English</option>
-     <option value="Lost">Spanish</option>
-    <option value="Familiarity">French</option>
-    <option value="Lost">German</option>
-    <option value="Lost">Russian</option>
+    <option value="English" selected>English</option>
+     <option value="Spanish">Spanish</option>
+    <option value="French">French</option>
+    <option value="German">German</option>
+    <option value="Russian">Russian</option>
   </select>
 </div>                   
 
