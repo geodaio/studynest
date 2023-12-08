@@ -3921,6 +3921,15 @@ margin:0px;
 #gen-settings{
  display:block;
 }
+#prof-settings {
+ display:none;
+}
+#notif-settings {
+ display:none;
+}
+#priv-settings {
+ display:none;
+}
 #settings-block {
 
 }
