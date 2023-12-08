@@ -2866,6 +2866,9 @@ width: 62%;
   right: 80%;
   bottom: 100%;
 }
+#go-away {
+  display:block;
+}
 .navbar-links li a {
       display: block;
     text-decoration: none;
@@ -3005,6 +3008,7 @@ width: 62%;
 @media screen and (min-width:480px) and (max-width:900px){
    #body #header-logo{max-width:2%}.toggle-button {display: flex}.signin,.signup{display:none }
   .navbar-links {display: none;width: 100%;}
+  #go-away {display:none;}
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;} 
   .header-left {
