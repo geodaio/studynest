@@ -1207,7 +1207,7 @@ padding:4%;
   display: flex;
   flex-direction: row-reverse;
   padding: 6%;
-  align-items: center;
+  /*! align-items: center; */
 }
 .action_btn{
   width: 75%;
@@ -1216,7 +1216,7 @@ padding:4%;
 }
 .person-text{
   position: relative;
-  right: 35%;
+  /*! right: 35%; */
 }
 }
 .person h3, h4, p{
@@ -1232,6 +1232,8 @@ padding:4%;
   /*! top:-1%; */
   /*! position: absolute; */
   border-radius: 100%;
+  margin-left: 30%;
+  margin-right: 10%;
 }
 #about{
   float:left;
@@ -1798,7 +1800,11 @@ select{
 }*/
 .person-text{
   position: relative;
-  right: 35%;
+  /*! right: 35%; */
+  /*! display: flex; */
+  /*! flex-direction: ; */
+  /*! float: left; */
+  /*! display: table; */
 }
 }
 .person h3, h4, p{
@@ -3336,19 +3342,21 @@ width: 62%;
     width:100%;  
   }
   #fast-facts2{
-    width:80%;
+    width:100%;
     height:56%;
     border-width: 1.5px;
     border-color:#293730;
     border-style:solid;
     border-radius:25px;
-    padding:2% 4% 2% 4%;
-    margin-top: 16px;
-    margin-left: 2%;;
+    /*! padding:2% 4% 2% 4%; */
+    /*! margin-top: 77px; */
+    /*! margin-left: 5%; */;
   }
   
   #uni, #locat, #join-profile, #person-contact-info{
     margin: 7%;
+    width: 7%;
+    /*! font-size: 70%; */
   }
    #about-p-2 {
     height:50%;
@@ -3979,11 +3987,11 @@ margin:0px;
 @media screen and (max-width: 900px) {
   #profile-section-sb {
     font-size: 100%;
-    left:-10%;
   }
   #fast-facts2 {
-    flex-idrection:row;
+    flex-direction:row;
     
+    width: 100%;
   }
 }
 
