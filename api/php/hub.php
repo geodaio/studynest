@@ -272,7 +272,7 @@
   </div>
   <div class="flex-item-right">
   	<div class="leadercontainer">
-  <img src="https://picsum.photos/61" alt="Avatar" style="width:136px" class="image1rank">
+  <img src="api/images/student2Test.jpg" alt="Avatar" style="width:136px" class="image1rank">
   <div class="rank1">
   <p><span>Vijaya R</span></p>
   <p>Rank 1</p>
