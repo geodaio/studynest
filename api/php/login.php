@@ -7,7 +7,7 @@
 <body id="body-login">
     <section class="flexbox-column">
           <div id="login-sect">
-            <a href="api/php/index.php"><i class="fa-solid fa-xmark fa-2xl" id="leave-login"></i></a>
+            <a href="api/php/index.php" id="back-to-home"><i class="fa-solid fa-xmark fa-2xl" id="leave-login"></i></a>
             <h2>Login</h2>
             <p>Sign in to continue access</p>
             <form id="form-login">
