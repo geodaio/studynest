@@ -42,25 +42,25 @@
                  <div class="row scrolling_text">
                         <div class="runningtext">
                         <span>Study Together</span>
-                        <img src="images/unicon.svg" alt="Graduation Cap">
+                        <img src="api/images/unicon.svg" alt="Graduation Cap">
                         <span>Study Together</span>
-                         <img src="images/unicon.svg" alt="Graduation Cap">
+                         <img src="api/images/unicon.svg" alt="Graduation Cap">
                         <span>Study Together</span>
-                         <img src="images/unicon.svg" alt="Graduation Cap">
+                         <img src="api/images/unicon.svg" alt="Graduation Cap">
                         <span>Study Together</span>
-                         <img src="images/unicon.svg" alt="Graduation Cap">
+                         <img src="api/images/unicon.svg" alt="Graduation Cap">
                         <span>  </span>
                         </div>
                         <div class="runningtext">
                          <span></span>
                         <span>Study Together</span>
-                         <img src="images/unicon.svg" alt="Graduation Cap">
+                         <img src="api/images/unicon.svg" alt="Graduation Cap">
                         <span>Study Together</span>
-                         <img src="images/unicon.svg" alt="Graduation Cap">
+                         <img src="api/images/unicon.svg" alt="Graduation Cap">
                         <span>Study Together</span>
-                         <img src="images/unicon.svg" alt="Graduation Cap">
+                         <img src="api/images/unicon.svg" alt="Graduation Cap">
                         <span>Study Together</span>
-                         <img src="images/unicon.svg" alt="Graduation Cap">
+                         <img src="api/images/unicon.svg" alt="Graduation Cap">
                         </div>
                     </div>
                     </div>
@@ -73,7 +73,7 @@
 		<h2 class="heading3">Looking for study buddies</h2>
 		<div class="nearyou">
 		<div class="card">
-			  <img src="api/images/student1.jpg" alt="John" style="width:100%">
+			  <img src={"api/images/student1.jpg"} alt="John" style="width:100%">
 			  <h3 class="studentname">Poppy Lewis</h3>
 			   <div class="cardcontent">
 			  <p class="title">@ Informatics</p>
