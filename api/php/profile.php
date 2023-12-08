@@ -127,10 +127,10 @@
 		                                    <p class="university-buddy">University at Albany</p>
                 				</div>
                         		</div>
-                    			<div id="profile-section-ra">
-                        			<p>Check back soon to see recent activity!</p>
-                    			</div>
             			</div>
+				<div id="profile-section-ra">
+                        		<p>Check back soon to see recent activity!</p>
+                    		</div>
 			</aside>
         	</div>
         </section>
