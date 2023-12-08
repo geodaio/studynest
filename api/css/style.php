@@ -713,7 +713,6 @@ width:100%;
   position: absolute;
   left: 40px;
   bottom: 56px;
-  z-index: 5;
   background: #fff;
 }
 
