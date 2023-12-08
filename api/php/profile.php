@@ -127,6 +127,24 @@
 		                                    <p class="university-buddy">University at Albany</p>
                 				</div>
                         		</div>
+					<div class="person">
+                				<img src="https://picsum.photos/70" alt="temp" title="" class="pfp-buddy">
+                				<div class="person-text">
+		                                    <h3 class="first-last-name-buddy">FIRSTNAME LASTNAME</h3>
+		                                    <h4 class="username-buddy">@username</h4>
+		                                    <p class="degree-buddy">Bachelors Degree in Informatics</p>
+		                                    <p class="university-buddy">University at Albany</p>
+                				</div>
+                        		</div>
+					<div class="person">
+                				<img src="https://picsum.photos/70" alt="temp" title="" class="pfp-buddy">
+                				<div class="person-text">
+		                                    <h3 class="first-last-name-buddy">FIRSTNAME LASTNAME</h3>
+		                                    <h4 class="username-buddy">@username</h4>
+		                                    <p class="degree-buddy">Bachelors Degree in Informatics</p>
+		                                    <p class="university-buddy">University at Albany</p>
+                				</div>
+                        		</div>
             			</div>
 				<div id="profile-section-ra">
                         		<p>Check back soon to see recent activity!</p>
