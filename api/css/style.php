@@ -2885,8 +2885,15 @@ width: 62%;
 }
 /*END KAT CODE*/
 
-
+@media screen and (min-width:1020px) and (max-width:1300px){
+  #login-sect {
+    width:50%;
+  }
+}
 @media screen and (min-width:900px) and (max-width:1020px){
+  #login-sect {
+    width:60%;
+  }
  .profile-nav-info{margin-left: 0px;}
  #body #header-logo{
   max-width:10%;
@@ -2999,7 +3006,9 @@ width: 62%;
     flex-direction:inherit;
     margin:0
   }
-  
+  #login-sect {
+    width:70%;
+  }
   .picturecards {
     width:100%;
     margin: auto;
@@ -3419,6 +3428,9 @@ width: 62%;
 #fast-facts2 {
   font-size: 70%;
 }
+  #login-sect {
+    width:80%;
+  }
 #profile-section-sb {
   font-size:70%;
 }
