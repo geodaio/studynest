@@ -225,7 +225,7 @@
   <div class="personcontainer">
   <div class="userboard">
   <p class="rank"> 1</p>
-  <img src="https://picsum.photos/65"  alt="Avatar" style="width:56px">
+  <img src="https://picsum.photos/61"  alt="Avatar" style="width:56px">
   <p class="name">Vijaya R</p>
   <p class="points">409 hours</p>
  </div>
