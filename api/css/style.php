@@ -1138,6 +1138,7 @@ padding:4%;
 }
 #profile-section-ra{
   display:none;
+  text-align: center;
 }
 #profile-section-about{
   float: left;
