@@ -682,6 +682,7 @@ width:100%;
    display:flex;
   flex-direction:row;
     background-color:#eae9e1;
+    height:100%;
 }
 .flexbox-column {
   height:100%;
