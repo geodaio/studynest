@@ -21,15 +21,8 @@
               <input type="email" id="email" name="email"><br>
               <label for="password">Password:</label><br>
               <input type="password" id="password" name="password"><br>
-              <input type="submit" id="login-button" value="Login" onclick="signIn()">
+              <input type="submit" id="login-button" value="Sign Up" onclick="signIn()">
             </form>
-            <div id="myDiv"></div>
-            <button class="" id="forgot-password" onclick="">Have an account? Sign In!</button>
-            <div id="button-log">
-                <a href="#"><i class="fa-brands fa-google fa-xl"></i></a>
-                <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
-                <a href="#"><i class="fa-brands fa-square-facebook fa-xl"></i></a>
-            </div>
           </div>
     </section>
     <?php
