@@ -709,6 +709,11 @@ width:100%;
   height: 200px;
 }
 
+#profile-header-img-profile {
+  height:300px;
+  background:linear-gradient(182deg, #488455, #dad299);
+}
+
 .profile-img img {
   border: 2px solid #293730;
   border-radius: 50%;
