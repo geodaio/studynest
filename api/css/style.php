@@ -1,6 +1,7 @@
 <?php
   header('Content-Type: text/css');
 ?>
+
 /*Kat code*/
 /*Minfied Css for Search results page*/
 .cardcontainer::after,.row:after,.row:before{content:"";clear:both;display:table}body{margin:0;font-family:'Nimbus Sans L',sans-serif}.searchcontainer,.searching, html{height:100%;width:100%;max-height:100%}.searching{display:flex}
@@ -592,6 +593,7 @@ width:100%;
   padding: 10px;
   margin:auto;
   font-size:.7em;
+  margin-right: 0px;
 }
 .signin2, .signup2{
   margin-left:16px;
@@ -615,6 +617,7 @@ width:100%;
     border-color: #293730;
     border-style: solid;
     color: #FEFCF8;
+    margin-left: 5%;
 }
 
 .sidenav {
@@ -2994,7 +2997,6 @@ width: 62%;
 @media screen and (min-width:480px) and (max-width:900px){
    #body #header-logo{max-width:2%}.toggle-button {display: flex}.signin,.signup{display:none }
   .navbar-links {display: none;width: 100%;}
-  #go-away {display:none;}
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;} 
   .header-left {
@@ -3007,6 +3009,7 @@ width: 62%;
   #login-sect {
     width:70%;
   }
+   #go-away {display:none;}
   /*#contact-profile-email {
     position: relative;
     left: -50px;
@@ -4335,8 +4338,7 @@ margin:0px;
 
 #go-away {
   display:flex;
+  width: 100%;
 }
-#go-away button {
-  padding: 2%;
-}
+
 
