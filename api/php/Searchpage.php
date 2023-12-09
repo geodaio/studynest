@@ -27,7 +27,7 @@
     </div>
      <div class="rightnow row">
         <div class="cardcontainer">
-         <img class="imageprofile" src="images/profile1.png" alt="Avatar" style="height:72px">
+         <img class="imageprofile" src="https://picsum.photos/69" alt="Avatar" style="height:72px">
          <div class="rightfloat">
         <div class="textright">
         <a href="api/php/profile.php" class="bold"><span>Vijaya R</span></a>
@@ -43,7 +43,7 @@
 
      <div class="rightnow row">
         <div class="cardcontainer">
-        <img class="imageprofile" src="images/profile1.png" alt="Avatar" style="height:72px">
+        <img class="imageprofile" src="https://picsum.photos/70" alt="Avatar" style="height:72px">
         <div class="rightfloat">
              <div class="textright">
         <p class="bold"><span>Emily Smith</span><br> </p>
@@ -58,7 +58,7 @@
 
     <div class="rightnow row">
         <div class="cardcontainer">
-        <img class="imageprofile" src="images/profile1.png" alt="Avatar" style="height:72px">
+        <img class="imageprofile" src="https://picsum.photos/71" alt="Avatar" style="height:72px">
         <div class="rightfloat">
              <div class="textright">
        <p class="bold"><span>Lily Johnson </span><br></p>
@@ -73,7 +73,7 @@
 
     <div class="rightnow row">
         <div class="cardcontainer">
-        <img src="images/profile1.png" alt="Avatar" style="height:72px">
+        <img src="https://picsum.photos/72" alt="Avatar" style="height:72px">
         <div class="rightfloat">
              <div class="textright">
         <p class="bold"><span>Mia Davies</span></p></p>@ Computer Science</p></div>
@@ -102,7 +102,7 @@
         </div></div>
         <div class="rightnow row">
         <div class="cardcontainer">
-        <img src="images/profile1.png" alt="Avatar" style="height:72px">
+        <img src="https://picsum.photos/73" alt="Avatar" style="height:72px">
         <div class="rightfloat">
 
              <div class="textright">
