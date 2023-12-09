@@ -88,7 +88,7 @@
 		</div>
 
 		<div class="card">
-			  <img src="api/images/student2.jpg" alt="John" style="width:100%">
+			  <img src={"api/images/olivew.jpg" alt="John" style="width:100%">
 			  <h3 class="studentname">Olive Williams</h3>
 			   <div class="cardcontent">
 			  <p class="title">@ Computer Science</p>
