@@ -54,6 +54,9 @@ function toLogin() {
 function toQNA() {
 	window.location.assign("https://study-nest.vercel.app/api/php/questionaire.php");
 }
+function toSU() {
+	window.location.assign("https://study-nest.vercel.app/api/php/signup.php");
+}
 function backToHome() {
 	window.location.assign("https://study-nest.vercel.app/");
 }
