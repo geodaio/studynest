@@ -28,7 +28,7 @@
 		 </button>
      	</form>
      	<div class="style2">
-     	<a href="api/php/questionaire.html" class="btn2">Find Study Buddy</a>
+     	<a href="api/php/questionaire.php" class="btn2">Find Study Buddy</a>
         <a href="" class="btn3">Find Study Group</a>
     	</div>
     	</div>
