@@ -4333,5 +4333,10 @@ margin:0px;
   }*/
 }
 
-
+#go-away {
+  display:flex;
+}
+#go-away button {
+  padding: 2%;
+}
 
