@@ -3443,7 +3443,7 @@ width: 62%;
 .flex-container{
   flex-direction: column-reverse;
 }
-
+#go-away {display:none;}
   #login-sect {
     width:80%;
   }
@@ -4200,7 +4200,7 @@ text-align:center}
 }
 
 @media (max-width: 400px) {
-
+   #go-away {display:none;}
    .buttonsarea{
    display: flex;
    justify-content: center;
