@@ -3818,7 +3818,9 @@ text-align:center}
   width: 80%;
 }
 
-
+#login-sect {
+  width:90%;
+}
 .dottedcircle{
   display: none;
 }
@@ -4201,7 +4203,9 @@ text-align:center}
   display: none;
 }
 
-
+#login-sect {
+  width:95%;
+}
   .profile-header h3 {
   }
 
