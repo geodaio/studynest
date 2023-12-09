@@ -998,7 +998,7 @@ font-weight:bold;
   font-size:1em;
   font-family: 'PT Serif', serif;
 }
-#email, #password {
+#email, #password, #fname, #lname, #uname {
   width:70%;
   line-height:3em;
 }
