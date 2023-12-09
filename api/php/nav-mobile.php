@@ -13,7 +13,7 @@
                         }
                          else {
                                echo '<a href="api/php/login.php" title="">Sign In</a>';
-				echo '<a href="api/php/questionaire.php" title="">Sign Up</a>';
+				echo '<a href="api/php/signup.php" title="">Sign Up</a>';
                         }
                      ?>
 		</div>
