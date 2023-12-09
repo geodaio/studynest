@@ -33,30 +33,30 @@ function storeCookies(name, value){
 function signIn() {
 	event.preventDefault();
 	storeCookies("loggedIn", "true");
-	window.location.assign("https://study-nest.vercel.app/");
+	window.location.assign("https://study--nest.vercel.app/");
 	console.log(document.cookie);
 }
 function signInNew() {
 	event.preventDefault();
 	storeCookies("loggedIn", "true");
-	window.location.assign("https://study-nest.vercel.app/api/php/Searchpage.php");
+	window.location.assign("https://study--nest.vercel.app/api/php/Searchpage.php");
 	console.log(document.cookie);
 }
 function signOut() {
 	event.preventDefault();
 	storeCookies("loggedIn", "false");
-	window.location.assign("https://study-nest.vercel.app/");
+	window.location.assign("https://study--nest.vercel.app/");
 	console.log(document.cookie);
 }
 function toLogin() {
-	window.location.assign("https://study-nest.vercel.app/api/php/login.php");
+	window.location.assign("https://study--nest.vercel.app/api/php/login.php");
 }
 function toQNA() {
-	window.location.assign("https://study-nest.vercel.app/api/php/questionaire.php");
+	window.location.assign("https://study--nest.vercel.app/api/php/questionaire.php");
 }
 function toSU() {
-	window.location.assign("https://study-nest.vercel.app/api/php/signup.php");
+	window.location.assign("https://study--nest.vercel.app/api/php/signup.php");
 }
 function backToHome() {
-	window.location.assign("https://study-nest.vercel.app/");
+	window.location.assign("https://study--nest.vercel.app/");
 }
