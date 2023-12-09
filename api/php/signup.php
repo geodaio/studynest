@@ -12,11 +12,11 @@
             <p>Sign up to gain access</p>
             <form id="form-login">
               <label for="fname">First Name:</label><br>
-              <input type="fname" id="fname" name="fname"><br>
+              <input type="text" id="fname" name="fname"><br>
               <label for="lname">Last Name:</label><br>
-              <input type="lname" id="lname" name="lname"><br>
-              <label for="username">Username:</label><br>
-              <input type="username" id="username" name="username"><br>
+              <input type="text" id="lname" name="lname"><br>
+              <label for="uname">Username:</label><br>
+              <input type="text" id="uname" name="uname"><br>
               <label for="email">Email Address:</label><br>
               <input type="email" id="email" name="email"><br>
               <label for="password">Password:</label><br>
