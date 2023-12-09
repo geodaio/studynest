@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 <?php
-    $title = "Home";
+    $title = "Questionaire";
     include($_SERVER["DOCUMENT_ROOT"] . "/api/php/head.php");
 ?>
 
