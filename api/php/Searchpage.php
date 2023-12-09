@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <?php
-    $title = "About Us";
+    $title = "Search Results";
     include($_SERVER["DOCUMENT_ROOT"] . "/api/php/head.php");
 ?>
 
