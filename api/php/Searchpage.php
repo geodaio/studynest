@@ -87,7 +87,7 @@
         </div></div>
         <div class="rightnow row">
         <div class="cardcontainer">
-        <img src="images/profile1.png" alt="Avatar" style="height:72px">
+        <img src="https://picsum.photos/74" alt="Avatar" style="height:72px">
         <div class="rightfloat">
 
              <div class="textright">
