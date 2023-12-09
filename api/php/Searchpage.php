@@ -30,7 +30,7 @@
          <img class="imageprofile" src="images/profile1.png" alt="Avatar" style="height:72px">
          <div class="rightfloat">
         <div class="textright">
-        <a href="profile.html" class="bold"><span>Vijaya R</span></a>
+        <a href="api/php/profile.php" class="bold"><span>Vijaya R</span></a>
         <p>@ Informatics</p></div>
         <div class="something99">
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam non libero interdum, fermentum odio vitae.</p>
@@ -38,7 +38,7 @@
        <p><b>Course:</b> Intro to Web dev</p>
        <p><b>Knowledge:</b> Expert</p>
         <p><b>Language:</b> Exglish</p></div>
-        <a href="messages.html" class="testingsome2 w3r">Message</a>
+        <a href="api/php/messages.php" class="testingsome2 w3r">Message</a>
         </div></div>
 
      <div class="rightnow row">
