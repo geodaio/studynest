@@ -664,6 +664,11 @@ width:100%;
   flex-direction:row;
 }
 
+#go-away {
+  display:flex;
+  width: 100%;
+}
+
 .whyflexbox {
   width:100%;
   justify-content:space-around;
@@ -4336,9 +4341,5 @@ margin:0px;
   }*/
 }
 
-#go-away {
-  display:flex;
-  width: 100%;
-}
 
 
