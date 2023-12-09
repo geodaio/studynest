@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 
 <?php
-    $title = "Home";
+    $title = "Study Hub";
     include($_SERVER["DOCUMENT_ROOT"] . "/api/php/head.php");
 ?>
 
