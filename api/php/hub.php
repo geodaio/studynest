@@ -118,7 +118,7 @@
 		</div>
 
 		<div class="card">
-			  <img src="https://www.freepik.com/free-photo/portrait-woman-studio_12396474.htm#query=student&position=2&from_view=search&track=sph&uuid=cf8b5241-1b1f-49a2-9d33-3de218abdcc6" alt="John" style="width:100%">
+			  <img src="" alt="John" style="width:100%">
 			  <h3 class="studentname">John Doe</h3>
 			  <div class="cardcontent">
 			  <p class="title">@ Cybersecurity </p>
